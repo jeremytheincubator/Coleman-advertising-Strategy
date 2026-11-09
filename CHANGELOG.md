@@ -3,6 +3,9 @@
 Newest first. One line per action, with where it happened.
 
 ## 10/11/2026
+- Repo: STATE.md updated for the video views fix and the prospecting build route.
+- Meta: one unpublished draft ad started in the Gas BBQs ad set ("iGAF13265 | Static | New Revolution 5 Burner", link set, no creative yet). Prospecting ads to be built by hand as drafts from the `PLAN.md` copy.
+- Meta: Jeremy republished the hero spot video views ad about 09:30; "Delivery error" cleared and the ad is on.
 - The Hatch: Campaign reporting page now shows Google (asset groups and ad groups) beside Meta, Meta connect kept under the results. Live 09:01, backup index-20261110-0901.html.
 - Google Ads: The Hatch reporting script saved in the Coleman account on hourly; first push 08:11 (0 rows, no impressions yet).
 - The Hatch: deleted the TEST row left in ad_metrics from testing the Google ingest.
