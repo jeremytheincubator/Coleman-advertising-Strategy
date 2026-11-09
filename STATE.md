@@ -21,9 +21,9 @@ Last updated: 10/11/2026 06:50 (Melbourne)
 
 ## Reporting in The Hatch
 
-- Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 07:40: function deployed, Coleman Google account linked, script waiting to be pasted into Google Ads.
+- Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 09:05: script running hourly in Google Ads (first push 08:11), Campaign reporting page now shows Google beside Meta (live on thehatch.com.au).
 - Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.
-- Meta reporting still needs the system user token. Note: now that a Google account is linked, the page no longer shows the Meta "Connect" box, so the token has to go in another way until the page is updated.
+- Meta reporting still needs the system user token: Campaign reporting > "Add Coleman's Meta ads too".
 
 ## Next dates
 

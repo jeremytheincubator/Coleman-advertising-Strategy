@@ -3,6 +3,8 @@
 Newest first. One line per action, with where it happened.
 
 ## 10/11/2026
+- The Hatch: Campaign reporting page now shows Google (asset groups and ad groups) beside Meta, Meta connect kept under the results. Live 09:01, backup index-20261110-0901.html.
+- Google Ads: The Hatch reporting script saved in the Coleman account on hourly; first push 08:11 (0 rows, no impressions yet).
 - The Hatch: deleted the TEST row left in ad_metrics from testing the Google ingest.
 - The Hatch: ad-metrics function v2 deployed with Google ingest and dormant direct API pull; Coleman Google account linked (google:6080680425); push key created. Script and Basic access notes added to this repo.
 - 06:50 check: Google PMax and Brand Search live and approved, no impressions yet. Meta video views ad found paused with dev-mode error since 23:00 on 09/11 (caused by the API targeting edit). Old Google campaigns confirmed ended.
