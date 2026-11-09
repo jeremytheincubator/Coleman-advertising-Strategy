@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 10/11/2026
+- The Hatch: deleted the TEST row left in ad_metrics from testing the Google ingest.
 - The Hatch: ad-metrics function v2 deployed with Google ingest and dormant direct API pull; Coleman Google account linked (google:6080680425); push key created. Script and Basic access notes added to this repo.
 - 06:50 check: Google PMax and Brand Search live and approved, no impressions yet. Meta video views ad found paused with dev-mode error since 23:00 on 09/11 (caused by the API targeting edit). Old Google campaigns confirmed ended.
 - Repo set up: CLAUDE.md, STATE.md, PLAN.md, DECISIONS.md, CHANGELOG.md.

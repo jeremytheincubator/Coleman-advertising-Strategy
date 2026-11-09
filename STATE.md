@@ -24,7 +24,6 @@ Last updated: 10/11/2026 06:50 (Melbourne)
 - Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 07:40: function deployed, Coleman Google account linked, script waiting to be pasted into Google Ads.
 - Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.
 - Meta reporting still needs the system user token. Note: now that a Google account is linked, the page no longer shows the Meta "Connect" box, so the token has to go in another way until the page is updated.
-- A TEST row (campaign "TEST", zero values, 09/11) went into ad_metrics while testing and still needs deleting.
 
 ## Next dates
 
