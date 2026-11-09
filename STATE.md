@@ -19,6 +19,13 @@ Last updated: 10/11/2026 06:50 (Melbourne)
 1. **Meta prospecting ads.** The Composio Meta connection (`metaads_driven-swede`, user "Composio API") now has Advertise access on the Coleman Page, but its Meta app is in **development mode**, and Meta refuses to create ad creatives from a dev-mode app (error subcode 1885183). Fix: switch the app to Live in Meta for Developers (needs a privacy policy URL), or build the 16 ads by hand in Ads Manager. The ad copy for all 16 is in `PLAN.md`; the 48 images are already in the ad account image library.
 2. **PMax logo.** Asset groups still carry a soft 200 px logo pulled from the website. Clean 1200x1200 and 1200x300 files were cut from Jeremy's `COL_LOGO.pdf` on 09/11 but could not be pushed through the API. Swap by hand in Google Ads (each asset group, Logos).
 
+## Reporting in The Hatch
+
+- Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 07:40: function deployed, Coleman Google account linked, script waiting to be pasted into Google Ads.
+- Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.
+- Meta reporting still needs the system user token. Note: now that a Google account is linked, the page no longer shows the Meta "Connect" box, so the token has to go in another way until the page is updated.
+- A TEST row (campaign "TEST", zero values, 09/11) went into ad_metrics while testing and still needs deleting.
+
 ## Next dates
 
 - **12/11** Meta retargeting goes live. Needs the "Still thinking it over" (3 sizes) and "Pick your complete kitchen" (2 sizes) statics, still placeholders in The Hatch.
