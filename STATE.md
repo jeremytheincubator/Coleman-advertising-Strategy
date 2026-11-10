@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 10/11/2026 11:00 (Melbourne)
+Last updated: 10/11/2026 12:20 (Melbourne)
 
 ## Status at a glance
 
@@ -9,14 +9,14 @@ Last updated: 10/11/2026 11:00 (Melbourne)
 | BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live** since 09/11 night, learning, all 144 assets approved, no impressions yet at 06:50 10/11 | $540 |
 | BF26 Brand Search | Google | **Live** since 09/11 night, ad approved, no impressions yet at 06:50 10/11 | $85 |
 | BF26 Hero spot video views | Meta | **Republished by Jeremy about 09:30 10/11**, delivery error cleared, toggle on. Confirm impressions are moving again | $2,500 lifetime, ends 17/11 |
-| BF26 Prospecting (3 pack ad sets) | Meta | **Paused**: ads being built by hand in Ads Manager as drafts from 10/11 (one unpublished draft started in Gas BBQs). Jeremy activates | $520 (set, not spending) |
+| BF26 Prospecting (3 pack ad sets) | Meta | **Paused, 16 draft ads built** by hand 10/11 (Gas 5, Dual Fuel 6, Kitchens 5), nothing published. Jeremy reviews and publishes | $520 (set, not spending) |
 | BF26 Retargeting | Meta | Not built yet, starts 12/11 | $4,000 total |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
 
 ## Blockers
 
 0. **Video views ad (likely fixed).** The targeting edit made through the dev-mode Composio app at 23:10 on 09/11 put the live ad (`120254770835630655`) into WITH_ISSUES. Jeremy republished it in Ads Manager about 09:30 on 10/11 and the delivery error cleared. Check impressions resume. Do not edit Meta objects through the Composio app until it is Live.
-1. **Meta prospecting ads.** The Composio Meta connection (`metaads_driven-swede`, user "Composio API") now has Advertise access on the Coleman Page, but its Meta app is in **development mode**, and Meta refuses to create ad creatives from a dev-mode app (error subcode 1885183). Fix: switch the app to Live in Meta for Developers (needs a privacy policy URL), or build the 16 ads by hand in Ads Manager. The ad copy for all 16 is in `PLAN.md`; the 48 images are already in the ad account image library.
+1. **Meta prospecting ads (worked around 10/11).** All 16 built by hand in Ads Manager as drafts. Each ad: 4:5 in Feeds, 9:16 in Stories/Reels, 1:1 in right column, all at Original with Meta AI crop and expand off; one primary text and one headline from `PLAN.md`, AI text strategies off; Personalised destinations 0/4; Format display options 1/3 (carousel and collection off); Ad sources 1/3; multi-advertiser off; CTA Shop now; `utm_content` per ad. Meta switches several of these back on when media is swapped or ads are pasted, so recheck after any edit. The API route below is still blocked. Original note: the Composio Meta connection (`metaads_driven-swede`, user "Composio API") now has Advertise access on the Coleman Page, but its Meta app is in **development mode**, and Meta refuses to create ad creatives from a dev-mode app (error subcode 1885183). Fix: switch the app to Live in Meta for Developers (needs a privacy policy URL), or build the 16 ads by hand in Ads Manager. The ad copy for all 16 is in `PLAN.md`; the 48 images are already in the ad account image library.
 2. **PMax logo.** Asset groups still carry a soft 200 px logo pulled from the website. Clean 1200x1200 and 1200x300 files were cut from Jeremy's `COL_LOGO.pdf` on 09/11 but could not be pushed through the API. Swap by hand in Google Ads (each asset group, Logos).
 
 ## Reporting in The Hatch
