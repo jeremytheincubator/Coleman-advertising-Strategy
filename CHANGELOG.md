@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 10/11/2026
+- 14:05 Google check: the bid strategy report's "Inactive" covers 3 to 9 Nov, before both campaigns were switched on (23:10 on 09/11). Both are Enabled, Serving, Learning; keywords and ads approved; billing fine, no account alerts. Still 0 impressions about 15 hours in. Nothing changed.
 - 13:03 Jeremy confirmed Meta is using the Incubator pixel `1912256846793050`; pixel blocker closed.
 - 12:58 Tracking check since 01/11: Shopify 11 orders (about $18.6k), GA4 11 purchases (about $19.7k), Google Ads 0 conversions (no ad clicks yet). Meta pixel `1052619822823359` found sending inflated Purchase events until 08/11; Incubator pixel `1912256846793050` matches orders. Prospecting ad sets need switching to `1912…` before publishing. Nothing changed in Meta.
 - 12:45 Meta check: video views ad back on since 09:39 with the agreed locations ($40.65, 9,980 impressions, 1,389 ThruPlays so far today). No prospecting or retargeting ads exist in the account yet.
