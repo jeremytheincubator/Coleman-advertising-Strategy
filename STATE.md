@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 10/11/2026 12:20 (Melbourne)
+Last updated: 10/11/2026 12:58 (Melbourne)
 
 ## Status at a glance
 
@@ -17,7 +17,8 @@ Last updated: 10/11/2026 12:20 (Melbourne)
 
 0. **Video views ad (likely fixed).** The targeting edit made through the dev-mode Composio app at 23:10 on 09/11 put the live ad (`120254770835630655`) into WITH_ISSUES. Jeremy republished it in Ads Manager about 09:30 on 10/11 and the delivery error cleared. Check impressions resume. Do not edit Meta objects through the Composio app until it is Live.
 1. **Meta prospecting ads (worked around 10/11).** All 16 built by hand in Ads Manager as drafts. Each ad: 4:5 in Feeds, 9:16 in Stories/Reels, 1:1 in right column, all at Original with Meta AI crop and expand off; one primary text and one headline from `PLAN.md`, AI text strategies off; Personalised destinations 0/4; Format display options 1/3 (carousel and collection off); Ad sources 1/3; multi-advertiser off; CTA Shop now; `utm_content` per ad. Meta switches several of these back on when media is swapped or ads are pasted, so recheck after any edit. The API route below is still blocked. Original note: the Composio Meta connection (`metaads_driven-swede`, user "Composio API") now has Advertise access on the Coleman Page, but its Meta app is in **development mode**, and Meta refuses to create ad creatives from a dev-mode app (error subcode 1885183). Fix: switch the app to Live in Meta for Developers (needs a privacy policy URL), or build the 16 ads by hand in Ads Manager. The ad copy for all 16 is in `PLAN.md`; the 48 images are already in the ad account image library.
-2. **PMax logo.** Asset groups still carry a soft 200 px logo pulled from the website. Clean 1200x1200 and 1200x300 files were cut from Jeremy's `COL_LOGO.pdf` on 09/11 but could not be pushed through the API. Swap by hand in Google Ads (each asset group, Logos).
+2. **Meta purchase pixel (found 10/11).** Prospecting ad sets point at the broken pixel `1052619822823359`. Switch each ad set's conversion event to pixel `1912256846793050` (Purchase) before publishing the 16 drafts. Tracking check 10/11: Shopify 11 orders about $18.6k since 01/11, GA4 13 purchases about $19.7k, Google Ads 0 (no clicks yet, so nothing to attribute).
+3. **PMax logo.** Asset groups still carry a soft 200 px logo pulled from the website. Clean 1200x1200 and 1200x300 files were cut from Jeremy's `COL_LOGO.pdf` on 09/11 but could not be pushed through the API. Swap by hand in Google Ads (each asset group, Logos).
 
 ## Reporting in The Hatch
 
@@ -67,7 +68,7 @@ Last updated: 10/11/2026 12:20 (Melbourne)
 
 - Ad account `act_6773131799420865` (Coleman BBQs, AUD, Melbourne time).
 - Page `119154227957449`, Instagram `17841462838046643`.
-- Pixels: `1052619822823359` "Coleman BBQs" (used for purchase optimisation), `1912256846793050` "Coleman BBQs 2026 (Incubator)".
+- Pixels: `1052619822823359` "Coleman BBQs" is **unreliable**: it fired about 75 to 128 Purchase events a day against about one real order a day until 08/11, then nearly stopped. `1912256846793050` "Coleman BBQs 2026 (Incubator)" matches Shopify (08/11: 3 vs 2 orders, 09/11: 3 vs 2). The prospecting ad sets still optimise on `1052…` and must be switched to `1912256846793050` before any ad is published (Jeremy's OK needed; do it in Ads Manager, not through the dev-mode app).
 - Video views: campaign `120254770835620655`, ad set `120254770835640655` (ThruPlay), ad `120254770835630655`.
 - Prospecting: campaign `120254782792610655` "iGAF13265 | BF26 | Sales | Prospecting | Metro" (CBO, purchase, ends 28/11 23:59). Ad sets: Kitchens `120254782794400655`, Dual Fuel `120254782795080655`, Gas BBQs `120254782795730655`.
 
