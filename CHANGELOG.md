@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 10/11/2026
+- 12:45 Meta check: video views ad back on since 09:39 with the agreed locations ($40.65, 9,980 impressions, 1,389 ThruPlays so far today). No prospecting or retargeting ads exist in the account yet.
 - Meta: all 16 prospecting ads built as unpublished drafts (Gas BBQs 5, Dual Fuel 6, Kitchens 5) from `PLAN.md` copy and the library statics. Switched off on every ad: Optimise website destination and Shop, multi-advertiser ads, AI text strategies, carousel and collection formats, products and site links. Verified all 16 at 12:20. Not published; Jeremy to review and publish.
 - Repo: STATE.md updated for the video views fix and the prospecting build route.
 - Meta: one unpublished draft ad started in the Gas BBQs ad set ("iGAF13265 | Static | New Revolution 5 Burner", link set, no creative yet). Prospecting ads to be built by hand as drafts from the `PLAN.md` copy.
