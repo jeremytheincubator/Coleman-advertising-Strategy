@@ -1,13 +1,14 @@
 # Where we're at
 
-Last updated: 10/11/2026 13:03 (Melbourne)
+Last updated: 12/11/2026 01:55 (Melbourne)
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
 | BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live** since 09/11 night, learning, all 144 assets approved, no impressions yet at 06:50 10/11 | $540 |
-| BF26 Brand Search | Google | **Live** since 09/11 night, ad approved, no impressions yet at 06:50 10/11 | $85 |
+| BF26 Brand Search (original, account 608-068-0425) | Google | **Live** since 09/11 night, still no impressions at 01:50 12/11. Left running; Jeremy to decide whether to pause now the copy is live | $85 |
+| BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Live** since 01:50 12/11 as a serving test, Eligible (Learning) | $85 |
 | BF26 Hero spot video views | Meta | **Republished by Jeremy about 09:30 10/11**, delivery error cleared, toggle on. Confirm impressions are moving again | $2,500 lifetime, ends 17/11 |
 | BF26 Prospecting (3 pack ad sets) | Meta | **Paused, 16 draft ads built** by hand 10/11 (Gas 5, Dual Fuel 6, Kitchens 5), nothing published. Jeremy reviews and publishes | $520 (set, not spending) |
 | BF26 Retargeting | Meta | Not built yet, starts 12/11 | $4,000 total |
@@ -82,6 +83,7 @@ Last updated: 10/11/2026 13:03 (Melbourne)
   - Asset group Dual Fuel `6770974633`: listing group the 25 Dual Fuel item ids.
   - Asset group Gas BBQs `6771018548`: listing group product type "bbqs".
 - Brand Search: campaign `24440165243` "iGAF13265 BF26 | Search | Brand", budget `16012047969` ($85/day), lands on /pages/black-friday.
+- Second Ads account 128-217-5264 (`1282175264`, "Coleman BBQs", set up by Coleman, not readable through the Composio connection). Holds a copy of Brand Search published 12/11: same 8 keywords, ad, 11 negatives, $85/day, Maximise clicks with $2.50 cap, Search network only, presence only, ends 28/11. Differences from the original: Hobart left out and end date 28/11 (original targets Hobart and ends 06/12). GA4 property 408580183 linked 12/11; GA4 `purchase` imported as the primary conversion ("Coleman BBQs Australia (web) purchase"). Also has an unfinished PMax draft "Campaign #1" and an inactive "Page view" conversion action.
 
 ### Scheduled tasks (Claude, cloud, run without approval, push a summary)
 
