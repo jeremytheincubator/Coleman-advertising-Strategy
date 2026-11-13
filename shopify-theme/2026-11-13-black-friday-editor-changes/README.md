@@ -28,6 +28,13 @@ Stored locations in the theme files, for anyone scripting this:
 - 4: metafield definition `gid://shopify/MetafieldDefinition/411015807172` (owner: Collection, type `file_reference`,
   images only, pinned); code in `templates/collection.kitchens.json` > `sections.kitchen-barbecues.settings.custom_liquid`
 
+| 5 | Kitchen selector tile images run out to the tile border | "kitchens" template > Custom HTML/Liquid (`kitchen-barbecues`) > Custom CSS | `05-kitchen-selector.custom.css` | No, permanent |
+
+Change 5 is stored at `templates/collection.kitchens.json` > `sections.kitchen-barbecues.custom_css`. To re-apply, open that
+section's **Custom CSS** field and paste the file's contents. To reverse, clear the field: the tiles go back to 12 px of white
+space around each image. It removes the tile's side and top padding so the image meets the border line, and keeps 12 px
+either side of the name.
+
 ## How to re-apply (if someone reverts or a rebuild wipes them)
 
 Open Online Store > Themes > Enterprise > Customize.

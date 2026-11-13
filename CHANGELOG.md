@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 14/11/2026
+- 04:24 Shopify theme editor (kitchens template, Custom HTML/Liquid `kitchen-barbecues`, Custom CSS): selector tile images now run out to the tile border.
 - 04:25 Repo: `shopify-theme/2026-11-13-black-friday-editor-changes/` added with the exact values and the apply and reverse steps for every theme editor change below; STATE.md has a new Shopify site section.
 - 04:17 Shopify theme editor (kitchens template, Custom HTML/Liquid `kitchen-barbecues`): selector tiles now use the collection metafield `custom.kitchen_selector_image`, falling back to the collection image. Checked live on the Outdoor Module Kitchen page.
 - 04:15 Shopify admin: collection metafield definition "Kitchen selector image" created and pinned; set on the four barbecue kitchen collections to the four new 700 px selector images (uploaded to Files 04:13). Collection images left as they were.
