@@ -17,6 +17,7 @@ holds the exact values. Image files are not kept here; they are in the store's F
 | 2 | Black Friday badge in the kitchen collection banners (768 px and wider only) | "kitchens" collection template > Collection banner > Custom CSS | `02-kitchens-collection-banner.custom.css` | Yes |
 | 3 | Countdown bar on collection and product pages, plus clickable badges | Header group > new Custom HTML/Liquid section (`custom_liquid_cLN3Mj`) | `03-header-bf-extras.liquid`, `03-header-bf-extras.custom.css` | Yes |
 | 4 | Kitchen selector tiles use their own image per collection | Collection metafield `custom.kitchen_selector_image` + "kitchens" template > Custom HTML/Liquid (`kitchen-barbecues`) | `04-kitchen-selector.liquid` | No, permanent |
+| 5 | Kitchen selector tile images run out to the tile border | "kitchens" template > Custom HTML/Liquid (`kitchen-barbecues`) > Custom CSS | `05-kitchen-selector.custom.css` | No, permanent |
 
 Stored locations in the theme files, for anyone scripting this:
 
@@ -27,8 +28,6 @@ Stored locations in the theme files, for anyone scripting this:
   The whole section object as saved is in `03-header-bf-extras.section.json`.
 - 4: metafield definition `gid://shopify/MetafieldDefinition/411015807172` (owner: Collection, type `file_reference`,
   images only, pinned); code in `templates/collection.kitchens.json` > `sections.kitchen-barbecues.settings.custom_liquid`
-
-| 5 | Kitchen selector tile images run out to the tile border | "kitchens" template > Custom HTML/Liquid (`kitchen-barbecues`) > Custom CSS | `05-kitchen-selector.custom.css` | No, permanent |
 
 Change 5 is stored at `templates/collection.kitchens.json` > `sections.kitchen-barbecues.custom_css`. To re-apply, open that
 section's **Custom CSS** field and paste the file's contents. To reverse, clear the field: the tiles go back to 12 px of white
