@@ -1,0 +1,70 @@
+{%- comment -%}
+  Outdoor kitchens: "Choose the barbecue for your kitchen" tiles (docs/20-kitchen-collection-pages.md, M15).
+
+  Sits in the Custom HTML/Liquid section of templates/collection.kitchens.json, which
+  tools/setup_kitchen_collections.py writes from this file. Used by the Outdoor Kitchens
+  collection and the four barbecue collections; on a barbecue collection its own tile is
+  marked as current and a link back to all kitchens is shown.
+
+  Kang, 2026-11-12: heading "Step 1: Choose the barbecue for your kitchen", no count or
+  "from" price line under the names, names centred. Tile image = the collection image: the barbecue's own
+  Matt Black photo, no modules (Kang). Brand: docs/11-brand-spec.md (black #231F20, grey #535455,
+  red #C82026 for the current tile only; images fit, never crop).
+
+  Jeremy, 2026-11-14: tile image is now the collection metafield custom.kitchen_selector_image
+  ("Kitchen selector image" on the collection's admin page) when set, else the collection image.
+  Edited in the theme editor; copy this change into the source file.
+{%- endcomment -%}
+{%- liquid
+  assign ckb_handles = 'coleman-revolution-4-burner-kitchens|coleman-revolution-5-burner-kitchens|coleman-revolution-dual-fuel-kitchens|coleman-pro-series-5-burner-kitchens' | split: '|'
+  assign ckb_labels = 'Revolution 4 Burner|Revolution 5 Burner|Revolution Dual Fuel|Pro Series 5 Burner' | split: '|'
+  assign ckb_all = collections['coleman-outdoor-module-kitchen']
+-%}
+<nav class="ckb" aria-labelledby="ckb-title">
+  <div class="ckb__head">
+    <h2 class="ckb__title h4" id="ckb-title">Step 1: Choose the barbecue for your kitchen</h2>
+    {%- if collection.handle != ckb_all.handle -%}
+      <a class="ckb__all" href="{{ ckb_all.url }}">See all outdoor kitchens</a>
+    {%- endif -%}
+  </div>
+  <ul class="ckb__grid" role="list">
+    {%- for ckb_handle in ckb_handles -%}
+      {%- assign ckb_c = collections[ckb_handle] -%}
+      {%- if ckb_c == empty or ckb_c.products_count == 0 -%}{%- continue -%}{%- endif -%}
+      {%- assign ckb_current = false -%}
+      {%- if collection.handle == ckb_handle -%}{%- assign ckb_current = true -%}{%- endif -%}
+      {%- assign ckb_img = ckb_c.metafields.custom.kitchen_selector_image.value | default: ckb_c.featured_image -%}
+      <li class="ckb__item">
+        <a class="ckb__card{% if ckb_current %} is-current{% endif %}" href="{{ ckb_c.url }}"{% if ckb_current %} aria-current="page"{% endif %}>
+          <span class="ckb__media">
+            {%- if ckb_img -%}
+              {{- ckb_img | image_url: width: 700 | image_tag: loading: 'lazy', widths: '300, 450, 600, 700', sizes: '(min-width: 990px) 22vw, 45vw', alt: '' -}}
+            {%- endif -%}
+          </span>
+          <span class="ckb__name">{{ ckb_labels[forloop.index0] }}</span>
+        </a>
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>
+<style>
+  /* The theme's root font size is 10px (1rem = 10px), so sizes here are in em of the 16px body text. */
+  .ckb { --ckb-black: #231F20; --ckb-grey: #535455; --ckb-red: #C82026; margin: 0 0 8px; font-size: inherit; }
+  .ckb__head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 4px 16px; margin-bottom: 16px; }
+  .ckb__title { margin: 0; color: var(--ckb-black); }
+  .ckb__all { color: var(--ckb-black); font-weight: 500; text-decoration: underline; text-underline-offset: 3px; }
+  .ckb__all:hover { color: var(--ckb-red); }
+  .ckb__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 0; padding: 0; list-style: none; }
+  @media (min-width: 750px) { .ckb__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; } }
+  .ckb__item { margin: 0; }
+  .ckb__card { display: flex; flex-direction: column; height: 100%; padding: 12px 12px 14px; background: #FFFFFF;
+    border: 1px solid rgba(83, 84, 85, 0.25); border-radius: 4px; color: var(--ckb-black); text-decoration: none;
+    transition: border-color 0.15s ease; }
+  .ckb__card:hover { border-color: var(--ckb-black); }
+  .ckb__card:focus-visible { outline: 2px solid var(--ckb-red); outline-offset: 2px; }
+  .ckb__card.is-current { border: 2px solid var(--ckb-red); padding: 11px 11px 13px; }
+  .ckb__media { display: block; aspect-ratio: 1 / 1; margin-bottom: 10px; background: #FFFFFF; }
+  .ckb__media img { display: block; width: 100%; height: 100%; object-fit: contain; }
+  .ckb__name { display: block; font-weight: 700; font-size: 1em; line-height: 1.3; text-align: center; }
+  @media (prefers-reduced-motion: reduce) { .ckb__card { transition: none; } }
+</style>
