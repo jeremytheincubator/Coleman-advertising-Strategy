@@ -2,6 +2,19 @@
 
 Newest first. One line per action, with where it happened.
 
+## 14/11/2026
+- 04:24 Shopify theme editor (kitchens template, Custom HTML/Liquid `kitchen-barbecues`, Custom CSS): selector tile images now run out to the tile border.
+- 04:25 Repo: `shopify-theme/2026-11-13-black-friday-editor-changes/` added with the exact values and the apply and reverse steps for every theme editor change below; STATE.md has a new Shopify site section.
+- 04:17 Shopify theme editor (kitchens template, Custom HTML/Liquid `kitchen-barbecues`): selector tiles now use the collection metafield `custom.kitchen_selector_image`, falling back to the collection image. Checked live on the Outdoor Module Kitchen page.
+- 04:15 Shopify admin: collection metafield definition "Kitchen selector image" created and pinned; set on the four barbecue kitchen collections to the four new 700 px selector images (uploaded to Files 04:13). Collection images left as they were.
+
+## 13/11/2026
+- 23:10 Shopify theme editor (Header group section `custom_liquid_cLN3Mj`, Custom CSS): countdown bar text enlarged (17 px label, 24 px digits).
+- 22:58 Shopify theme editor (Header group): new Custom HTML/Liquid section added. Countdown bar on collection and product pages to 28/11 23:59:59 AEDT, plus links to `/pages/black-friday` over the homepage hero badge and the kitchen collection badge. Checked live on a kitchen collection, a product page, the homepage and the Black Friday page.
+- 22:47 Shopify theme editor (kitchens template, Collection banner, Custom CSS): Black Friday badge shown in the banner's right half at 768 px and wider.
+- 22:38 Shopify theme editor (Home page, `bf_home_banner`, Custom CSS): Black Friday badge enlarged on tablet and desktop widths as well; first enlargement for small screens saved about 22:02.
+- 22:04 Shopify theme settings: favicon changed to `coleman_lantern_logo.png` (225 px); an earlier 64 px `coleman-favicon.png` went up at 21:57 and is now unused.
+
 ## 12/11/2026
 - 01:55 Google Ads 128-217-5264: Brand Search copy published as a serving test (ad group "Brand | Coleman BBQ", 11 campaign negatives added). Original in 608-068-0425 not paused.
 - 01:50 Google Ads 128-217-5264: GA4 `purchase` imported as a primary conversion; Purchases is now an account default goal.

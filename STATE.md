@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 12/11/2026 01:55 (Melbourne)
+Last updated: 14/11/2026 04:25 (Melbourne)
 
 ## Status at a glance
 
@@ -27,6 +27,17 @@ Last updated: 12/11/2026 01:55 (Melbourne)
 - Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.
 - Meta reporting still needs the system user token: Campaign reporting > "Add Coleman's Meta ads too".
 
+## Shopify site (colemanbbqs.com.au)
+
+Changes made by hand in the theme editor on the live Enterprise theme (ID 152935071940) on 13/11 and 14/11. Exact values, plus how to re-apply and reverse each one, are in `shopify-theme/2026-11-13-black-friday-editor-changes/README.md`.
+
+- Favicon is the Coleman lantern (permanent).
+- Homepage hero: Black Friday badge enlarged at every width, and clickable to `/pages/black-friday`.
+- Kitchen collection pages (the `kitchens` template, 5 collections): Black Friday badge in the banner's right half at 768 px and wider, clickable.
+- Collection and product pages: black countdown bar above the SALE ribbon, end time hard-coded to 28/11 23:59:59 AEDT.
+- Kitchen selector tiles ("Step 1: Choose the barbecue for your kitchen") read a new collection metafield, `custom.kitchen_selector_image` ("Kitchen selector image"), and fall back to the collection image. Set on the four barbecue kitchen collections. The tile images run out to the tile border.
+- **Rebuild risk.** The theme source and its tools (`tools/bf_home_banner.py`, `tools/setup_kitchen_collections.py`) are not in this repo. A rebuild from that source can drop the homepage badge CSS and will put the selector tiles back on the collection images until the same edits are made there.
+
 ## Next dates
 
 - **12/11** Meta retargeting goes live. Needs the "Still thinking it over" (3 sizes) and "Pick your complete kitchen" (2 sizes) statics, still placeholders in The Hatch.
@@ -37,7 +48,7 @@ Last updated: 12/11/2026 01:55 (Melbourne)
 - **20/11** Early access email. Wording still says "early access" though the sale has been public since 08/11.
 - **25/11 00:05** Scheduled task: Meta prospecting $1,200, PMax $1,250. Also reports best cost per purchase for the $2,400 reserve.
 - **27/11 00:05** Scheduled task: Meta prospecting $2,260, PMax $2,350.
-- **28/11 23:59** All Black Friday ads stop (end dates set on PMax and Meta prospecting).
+- **28/11 23:59** All Black Friday ads stop (end dates set on PMax and Meta prospecting). On the site, remove the Header group "Black Friday extras" section and clear the kitchens Collection banner Custom CSS (steps in the `shopify-theme` README).
 
 ## Open items
 
