@@ -1,18 +1,34 @@
 # Where we're at
 
-Last updated: 12/11/2026 01:55 (Melbourne)
+Last updated: 15/11/2026 15:55 (Melbourne)
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
-| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live** since 09/11 night, learning, all 144 assets approved, no impressions yet at 06:50 10/11 | $540 |
-| BF26 Brand Search (original, account 608-068-0425) | Google | **Live** since 09/11 night, still no impressions at 01:50 12/11. Left running; Jeremy to decide whether to pause now the copy is live | $85 |
-| BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Live** since 01:50 12/11 as a serving test, Eligible (Learning) | $85 |
-| BF26 Hero spot video views | Meta | **Republished by Jeremy about 09:30 10/11**, delivery error cleared, toggle on. Confirm impressions are moving again | $2,500 lifetime, ends 17/11 |
-| BF26 Prospecting (3 pack ad sets) | Meta | **Paused, 16 draft ads built** by hand 10/11 (Gas 5, Dual Fuel 6, Kitchens 5), nothing published. Jeremy reviews and publishes | $520 (set, not spending) |
-| BF26 Retargeting | Meta | Not built yet, starts 12/11 | $4,000 total |
+| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live and serving since 13/11.** $2,469 spent to 15:50 on 15/11, 2 purchases, $6,593. Spending over the daily budget ($1,074 on 14/11, $892 by mid-afternoon 15/11). Gas BBQs asset group $1,026 spent, no sales | $540 |
+| BF26 Brand Search (original, account 608-068-0425) | Google | **Live and serving since 13/11.** $215 spent, 2 purchases, $8,725. Jumped on 15/11 ($156 and 1,163 impressions against about 120 a day before); search terms not yet checked | $85 |
+| BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | Published 12/11 as a serving test. **Not readable through the Composio connection** (403), so status and spend unknown. Check by hand whether it is still running beside the original | $85 |
+| BF26 Hero spot video views | Meta | **Live.** $1,809 of $2,500 spent, 413,303 impressions, 148,621 people reached | $2,500 lifetime, ends 17/11 |
+| BF26 Prospecting, combined Add to cart ad set | Meta | **Live since 22:53 on 13/11**, optimising for Add to cart on pixel `1912256846793050`, out of learning. $850 spent, 52 adds to cart, 2 purchases, $6,888 | $520 (campaign budget) |
+| BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Still switched on but starved** by the campaign budget since 14/11 (cents a day). 11/11 to 13/11: $1,724 spent, 73 adds to cart, 4 purchases, $13,147. Pause them so the budget cannot drift back | shares the $520 |
+| BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11.** They pointed at the old pixel `1052619822823359`; $356 spent with no tracked results | none |
+| BF26 Retargeting | Meta | **Not built.** Was due 12/11 | $4,000 total, nothing spent |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
+
+## Spend against plan (to 15:50 on 15/11)
+
+Launch phase plan 09/11 to 15/11: $9,100. Actual: about $7,420, so about $1,680 under with part of 15/11 to go.
+
+| Line | Plan for launch week | Actual | Note |
+|---|---|---|---|
+| Meta prospecting | $3,640 | $2,929 | Live from 10/11, not 09/11; only $324 on 14/11 after the switch to Add to cart |
+| Meta video views | about $1,950 | $1,809 | On track |
+| Meta retargeting | about $940 (from 12/11) | $0 | Not built |
+| Google PMax | $3,780 | $2,469 | No impressions 09/11 to 12/11; overspending daily since |
+| Google Brand Search | about $470 | $215 | No impressions 09/11 to 12/11 |
+
+Shopify: 13 orders and about $26,000 for 01/11 to 12/11; 11 orders and about $42,000 for 13/11 to 15/11 (15/11 part day). Meta and Google claim 10 of those 11 orders between them, so some double counting. People are buying now, not holding off for the day. No decision made yet on moving the shortfall or the $2,400 reserve.
 
 ## Blockers
 
@@ -29,9 +45,9 @@ Last updated: 12/11/2026 01:55 (Melbourne)
 
 ## Next dates
 
-- **12/11** Meta retargeting goes live. Needs the "Still thinking it over" (3 sizes) and "Pick your complete kitchen" (2 sizes) statics, still placeholders in The Hatch.
+- **12/11 (missed)** Meta retargeting was due live; still not built at 15/11. Needs the "Still thinking it over" (3 sizes) and "Pick your complete kitchen" (2 sizes) statics, still placeholders in The Hatch.
 - **13/11** Product video cuts. Kitchens and Dual Fuel cuts are in; the Revolution 5 Burner cut is missing.
-- **15/11** Check week one cost per purchase. If people are holding off for the day, move reserve and Build money into 25 to 28 Nov.
+- **15/11 (done)** Week one check: cost per purchase about $488 on Meta prospecting (6 purchases) and about $671 on Google (4 purchases), on orders averaging about $3,500. People are not holding off. Jeremy to decide where the launch shortfall and the reserve go.
 - **16/11 00:05** Scheduled task: Meta prospecting $640, PMax $670.
 - **17/11** Video views campaign ends (plan said 22/11; Jeremy shortened it in Meta).
 - **20/11** Early access email. Wording still says "early access" though the sale has been public since 08/11.
@@ -71,7 +87,10 @@ Last updated: 12/11/2026 01:55 (Melbourne)
 - Page `119154227957449`, Instagram `17841462838046643`.
 - Pixels: `1052619822823359` "Coleman BBQs" is **unreliable**: it fired about 75 to 128 Purchase events a day against about one real order a day until 08/11, then nearly stopped. `1912256846793050` "Coleman BBQs 2026 (Incubator)" matches Shopify (08/11: 3 vs 2 orders, 09/11: 3 vs 2). Meta is using `1912256846793050` (Jeremy confirmed 10/11).
 - Video views: campaign `120254770835620655`, ad set `120254770835640655` (ThruPlay), ad `120254770835630655`.
-- Prospecting: campaign `120254782792610655` "iGAF13265 | BF26 | Sales | Prospecting | Metro" (CBO, purchase, ends 28/11 23:59). Ad sets: Kitchens `120254782794400655`, Dual Fuel `120254782795080655`, Gas BBQs `120254782795730655`.
+- Prospecting: campaign `120254782792610655` "iGAF13265 | BF26 | Sales | Prospecting | Metro" (CBO, purchase, ends 28/11 23:59, $520 a day). Ad sets:
+  - Combined, Add to cart, live: `120254853520690655`.
+  - Purchase copies on pixel `1912256846793050`, on but starved: Kitchens `120254806302590655`, Dual Fuel `120254806302720655`, Gas BBQs `120254806302600655`.
+  - Original Purchase ad sets on the old pixel, paused 11/11: Kitchens `120254782794400655`, Dual Fuel `120254782795080655`, Gas BBQs `120254782795730655`.
 
 ### Google
 

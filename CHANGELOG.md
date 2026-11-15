@@ -2,6 +2,17 @@
 
 Newest first. One line per action, with where it happened.
 
+## 15/11/2026
+- 15:50 Review (read only, nothing changed in Meta, Google or The Hatch): Meta combined Add to cart ad set confirmed live and out of learning; three Purchase copy ad sets still on but starved; retargeting not built; PMax and Brand Search serving since 13/11; PMax spending over its daily budget; Brand Search copy in 128-217-5264 not readable. Launch week about $1,680 under the $9,100 plan.
+- Repo: STATE.md brought up to date (status table, spend against plan, ad set IDs). Entries below for 11/11 and 13/11 added from what the platforms show.
+
+## 13/11/2026
+- 22:53 Meta: Jeremy created the combined ad set "iGAF13265 | BF26 | Combined | Metro + store towns | Add to cart" (`120254853520690655`), optimising for Add to cart, to replace the three Purchase ad sets.
+- Google Ads 608-068-0425: PMax and Brand Search recorded their first impressions and first sales (4 purchases, $15,318).
+
+## 11/11/2026
+- 09:50 Meta: the three prospecting ad sets were copied onto the Incubator pixel `1912256846793050` ("- Copy") and the originals on pixel `1052619822823359` paused.
+
 ## 12/11/2026
 - 01:55 Google Ads 128-217-5264: Brand Search copy published as a serving test (ad group "Brand | Coleman BBQ", 11 campaign negatives added). Original in 608-068-0425 not paused.
 - 01:50 Google Ads 128-217-5264: GA4 `purchase` imported as a primary conversion; Purchases is now an account default goal.
