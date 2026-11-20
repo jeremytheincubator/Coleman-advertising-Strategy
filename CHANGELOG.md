@@ -2,6 +2,10 @@
 
 Newest first. One line per action, with where it happened.
 
+## 20/11/2026
+- 22:00 Review (read only, nothing changed in Meta, Google, Shopify or The Hatch): spend about $15,450 of $43,200; Shopify 37 orders and about $90,500 since 08/11; sales slowed from 17/11; combined Add to cart ad set losing click rate; Purchase ad sets now show 10x on their 11/11 to 13/11 spend; PMax 2.4x; Brand Search 18x; retargeting still not built. Last-week plan recommended to Jeremy, awaiting his OK.
+- Repo: STATE.md brought up to date. 16/11 budget step (Meta $640, PMax $670) and the 17/11 end of video views recorded from what the platforms show.
+
 ## 15/11/2026
 - 15:50 Review (read only, nothing changed in Meta, Google or The Hatch): Meta combined Add to cart ad set confirmed live and out of learning; three Purchase copy ad sets still on but starved; retargeting not built; PMax and Brand Search serving since 13/11; PMax spending over its daily budget; Brand Search copy in 128-217-5264 not readable. Launch week about $1,680 under the $9,100 plan.
 - Repo: STATE.md brought up to date (status table, spend against plan, ad set IDs). Entries below for 11/11 and 13/11 added from what the platforms show.
