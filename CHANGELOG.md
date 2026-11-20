@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 20/11/2026
+- 22:18 Google Ads 608-068-0425: seven broad negatives added to Brand Search (propane, camping, tent, stove, lantern, ziegler, cobb). "cooler" left out on purpose because the store sells the Heller beverage cooler.
 - 22:12 Meta: prospecting campaign `120254782792610655` daily budget $640 to $1,400 (API, same route as the 16/11 step). Read back as $1,400; status showed "In process" straight after.
 - 22:11 Scheduled tasks: budget step 2 rewritten as a read-only Tuesday check at 07:30 on 24/11; budget step 3 (27/11) switched off.
 - 22:10 Google Ads 608-068-0425: PMax budget $670 to $850 a day; Brand Search budget $85 to $130 a day. Both read back correct.
