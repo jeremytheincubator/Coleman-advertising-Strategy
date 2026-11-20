@@ -2,6 +2,10 @@
 
 Newest first. One line per action, with where it happened.
 
+## 21/11/2026
+- 06:00 Meta: Jeremy re-exported the Kitchens statics at 05:46. New ads created for E (v2) and F from the 21/11 artwork; the 20/11 E paused; G unchanged (same files); 20/11 D left running. New D not loaded, label and price mismatch (see STATE.md). Prices checked against Shopify.
+- 05:55 Check: all 10 ads from 20/11 approved and active. Spend since midnight: Kitchens $114, Dual Fuel + 5 Burner $73, Retargeting $24, old combined ad set $4.
+
 ## 20/11/2026
 - 23:40 Meta: new ad sets and the retargeting campaign switched on; 10 new ads submitted for review. Floors set at $920 (Kitchens) and $460 (Dual Fuel + 5 Burner); Meta refused $930 and $465 against the $1,400 budget. Old ad sets left on.
 - 23:35 Meta: 10 ads built through the API from The Hatch components 3, 6, 7, 11 and 14 (20/11 exports): Kitchens D, E, G; Dual Fuel v2; 5 Burner v2 B and C; Still thinking it over A and B; Kitchens cut 12s video twice (prospecting and retargeting). Store line added to every primary text.
