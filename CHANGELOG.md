@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- About 06:50 Meta: fixed Dual Fuel 4:5 render (12.7 seconds) uploaded; Dual Fuel video ads rebuilt as v2 with all three sizes in the Dual Fuel + 5 Burner group and retargeting; the two-size versions paused.
 - About 06:45 Meta: Revolution 5 Burner 3 second video added to the Dual Fuel + 5 Burner group and to retargeting after Jeremy confirmed the length is intended.
 - About 06:40 Meta: updated 5 Burner statics loaded as v3 B and C (v2 paused). Retargeting statics re-exported and loaded as v2 with new text and headline per visual: A (5 Burner, "Your new BBQ awaits") no longer says "Save up to $900"; B (Dual Fuel kitchen, "Slow burn? Nearly ready?") keeps it. Earlier A and B paused. Meta then rate limited the account, so the final read-back was not done.
 - About 06:35 Meta: Revolution 5 Burner video uploaded but not used; the 9:16, 4:5 and 1:1 renders are each 3 seconds long.
