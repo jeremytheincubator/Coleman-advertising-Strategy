@@ -3,6 +3,8 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- About 06:40 Meta: updated 5 Burner statics loaded as v3 B and C (v2 paused). Retargeting statics re-exported and loaded as v2 with new text and headline per visual: A (5 Burner, "Your new BBQ awaits") no longer says "Save up to $900"; B (Dual Fuel kitchen, "Slow burn? Nearly ready?") keeps it. Earlier A and B paused. Meta then rate limited the account, so the final read-back was not done.
+- About 06:35 Meta: Revolution 5 Burner video uploaded but not used; the 9:16, 4:5 and 1:1 renders are each 3 seconds long.
 - About 06:05 Meta: third Kitchens export (05:56) loaded. New ads D v2, E v3 and F v2; the earlier D, E v2 and F paused. D v2 runs its 4:5 file in Stories and Reels (9:16 file still mislabelled).
 - About 06:00 Meta: Dual Fuel cut 12s video added to the Dual Fuel + 5 Burner group and to retargeting, using the 9:16 and 1:1 renders. The 4:5 render is 147 seconds long and was not used.
 - 06:00 Meta: Jeremy re-exported the Kitchens statics at 05:46. New ads created for E (v2) and F from the 21/11 artwork; the 20/11 E paused; G unchanged (same files); 20/11 D left running. New D not loaded, label and price mismatch (see STATE.md). Prices checked against Shopify.
