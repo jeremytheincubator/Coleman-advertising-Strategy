@@ -3,6 +3,8 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- About 06:05 Meta: third Kitchens export (05:56) loaded. New ads D v2, E v3 and F v2; the earlier D, E v2 and F paused. D v2 runs its 4:5 file in Stories and Reels (9:16 file still mislabelled).
+- About 06:00 Meta: Dual Fuel cut 12s video added to the Dual Fuel + 5 Burner group and to retargeting, using the 9:16 and 1:1 renders. The 4:5 render is 147 seconds long and was not used.
 - 06:00 Meta: Jeremy re-exported the Kitchens statics at 05:46. New ads created for E (v2) and F from the 21/11 artwork; the 20/11 E paused; G unchanged (same files); 20/11 D left running. New D not loaded, label and price mismatch (see STATE.md). Prices checked against Shopify.
 - 05:55 Check: all 10 ads from 20/11 approved and active. Spend since midnight: Kitchens $114, Dual Fuel + 5 Burner $73, Retargeting $24, old combined ad set $4.
 

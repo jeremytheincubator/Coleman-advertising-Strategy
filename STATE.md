@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 21/11/2026 06:05 (Melbourne)
+Last updated: 21/11/2026 06:05 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -13,9 +13,9 @@ Last updated: 21/11/2026 06:05 (Melbourne)
 | BF26 Prospecting, combined Add to cart ad set | Meta | **Live, out of learning.** $4,148 spent, 264 adds to cart, 10 purchases, $20,129 (4.9x). Click rate falling (4.85% on 15/11 to 2.70% on 20/11) and cost per thousand rising. "Kitchens from $1,949 B" has taken $2,393 of it | **$1,400 flat from 20/11** (campaign budget; Meta showed "In process" straight after the change, confirm it is delivering on 21/11) |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Still switched on but starved** since 14/11. 11/11 to 13/11 spend $1,730 now shows 5 purchases, $17,426 (10x) as later sales attributed back | shares the $1,400 |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
-| BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 3 ads: Still thinking it over A and B, Kitchens cut 12s video | $350 a day |
-| BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. Ads at 06:00 on 21/11: Kitchens from $1,949 D (20/11 artwork), E v2 and F (21/11 artwork, in review), G, and the Kitchens cut 12s video. The 20/11 E is paused. The 21/11 D artwork is held: it labels a 5 Burner kitchen as "Dual Fuel kitchen" and shows $4499 in 1:1 and 4:5 but $3899 in 9:16 | floor $920 a day inside the $1,400 |
-| BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 3 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v2 B and C | floor $460 a day inside the $1,400 |
+| BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 4 ads: Still thinking it over A and B, Kitchens cut 12s video, Dual Fuel cut 12s video (added 21/11) | $350 a day |
+| BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:05 on 21/11: Kitchens from $1,949 D v2, E v3 and F v2 (third export of 21/11, in review), G and the Kitchens cut 12s video (approved). Earlier D, E and F versions paused. D v2 uses the 4:5 file in Stories and Reels because its 9:16 file still reads "This Dual Fuel kitchen $3899" | floor $920 a day inside the $1,400 |
+| BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v2 B and C, and the Dual Fuel cut 12s video (added 21/11, in review; 9:16 and 1:1 only because the 4:5 render is 147 seconds long) | floor $460 a day inside the $1,400 |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
 
 ## Spend against plan (to 22:00 on 20/11)
