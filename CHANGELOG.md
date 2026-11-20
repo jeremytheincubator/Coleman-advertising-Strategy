@@ -3,6 +3,8 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- About 06:55 Meta, on Jeremy's instruction to turn off superseded ads: paused Kitchens from $1,949 A and B, New Revolution 5 Burner A and B and Dual Fuel from $1,949 B in the old combined ad set, and paused the three Purchase copy ad sets. Meta rate limited the account again, so the read-back of what remains active was not completed.
+- About 06:50 Meta: Kitchens D rebuilt as v3 with the corrected 9:16 (fourth export, 06:37); D v2 paused.
 - About 06:50 Meta: fixed Dual Fuel 4:5 render (12.7 seconds) uploaded; Dual Fuel video ads rebuilt as v2 with all three sizes in the Dual Fuel + 5 Burner group and retargeting; the two-size versions paused.
 - About 06:45 Meta: Revolution 5 Burner 3 second video added to the Dual Fuel + 5 Burner group and to retargeting after Jeremy confirmed the length is intended.
 - About 06:40 Meta: updated 5 Burner statics loaded as v3 B and C (v2 paused). Retargeting statics re-exported and loaded as v2 with new text and headline per visual: A (5 Burner, "Your new BBQ awaits") no longer says "Save up to $900"; B (Dual Fuel kitchen, "Slow burn? Nearly ready?") keeps it. Earlier A and B paused. Meta then rate limited the account, so the final read-back was not done.
