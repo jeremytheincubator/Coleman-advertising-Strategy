@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 20/11/2026 22:15 (Melbourne)
+Last updated: 20/11/2026 23:45 (Melbourne)
 
 ## Status at a glance
 
@@ -13,7 +13,9 @@ Last updated: 20/11/2026 22:15 (Melbourne)
 | BF26 Prospecting, combined Add to cart ad set | Meta | **Live, out of learning.** $4,148 spent, 264 adds to cart, 10 purchases, $20,129 (4.9x). Click rate falling (4.85% on 15/11 to 2.70% on 20/11) and cost per thousand rising. "Kitchens from $1,949 B" has taken $2,393 of it | **$1,400 flat from 20/11** (campaign budget; Meta showed "In process" straight after the change, confirm it is delivering on 21/11) |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Still switched on but starved** since 14/11. 11/11 to 13/11 spend $1,730 now shows 5 purchases, $17,426 (10x) as later sales attributed back | shares the $1,400 |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
-| BF26 Retargeting | Meta | **Still not built.** | $4,000 total, nothing spent |
+| BF26 Retargeting | Meta | **Live from 23:40 on 20/11, ads in review.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 3 ads: Still thinking it over A and B, Kitchens cut 12s video | $350 a day |
+| BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live from 23:40 on 20/11, ads in review.** Add to cart. 4 ads: Kitchens from $1,949 D, E, G and the Kitchens cut 12s video | floor $920 a day inside the $1,400 |
+| BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live from 23:40 on 20/11, ads in review.** Add to cart. 3 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v2 B and C | floor $460 a day inside the $1,400 |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
 
 ## Spend against plan (to 22:00 on 20/11)
@@ -24,7 +26,11 @@ Shopify 08/11 to 20/11: 37 orders, about $90,500, already past last year's Black
 
 **Flat budgets approved by Jeremy 20/11 and set the same night:** Meta prospecting $1,400, Meta retargeting $350 (once built), PMax $850, Brand Search $130, total $2,730 a day to Saturday 28/11 ($21,840 over eight days). About $5,900 held for a decision on Tuesday 24/11: top up the last four days or roll into December.
 
-Still to do for the plan: build retargeting; add the new ads (Jeremy is planning 5 revised statics, 3 Kitchens and 2 Revolution 5 Burner, plus 2 or 3 product and price videos); give the Kitchens Purchase ad set a spend floor as a head-to-head; pause the Gas BBQs asset group on 24/11 if it has not improved.
+Jeremy's instruction 20/11 23:07: two prospecting groups, Kitchens two thirds and Dual Fuel plus 5 Burner one third, built from the approved Hatch components; videos in retargeting and as ads. Built and switched on the same night through the API, which now creates ad creative. The two floors add to $1,380 of the $1,400, so the old combined and Purchase ad sets are left on but can take at most about $20 a day once the new ads are approved. This replaces the head-to-head idea.
+
+Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad text say $4899); Dual Fuel cut 12s video (vertical renders are from 08/11, only 16:9 was re-rendered 20/11); Revolution 5 Burner cut 12s video (no render in The Hatch). Kitchens E artwork shows a Dual Fuel kitchen labelled "This 5 burner kitchen $4299", for Jeremy to confirm. Live ad "Kitchens from $1,949 B" in the old combined ad set carries six primary texts including 5 Burner and Pro Series copy, site links and a product set.
+
+Still to do: pause the Gas BBQs asset group on 24/11 if it has not improved.
 
 ## Blockers
 
@@ -87,6 +93,9 @@ Still to do for the plan: build retargeting; add the new ads (Jeremy is planning
   - Combined, Add to cart, live: `120254853520690655`.
   - Purchase copies on pixel `1912256846793050`, on but starved: Kitchens `120254806302590655`, Dual Fuel `120254806302720655`, Gas BBQs `120254806302600655`.
   - Original Purchase ad sets on the old pixel, paused 11/11: Kitchens `120254782794400655`, Dual Fuel `120254782795080655`, Gas BBQs `120254782795730655`.
+
+- New 20/11: Kitchens ad set `120255003070440655`, Dual Fuel + 5 Burner ad set `120255003072240655` (both in the prospecting campaign). Retargeting campaign `120255003073230655`, ad set `120255003074280655`. Audiences: site visitors 30d `120255003067990655`, purchasers 30d `120255003068130655`, hero spot viewers `120255003069280655`.
+- New ads use placement rules copied from the hand-built ads: 9:16 in Stories and Reels, 4:5 in feeds, 1:1 elsewhere; one text and one headline; every enhancement opted out; no site links or product set. UTM campaign `bf26-meta-prospecting` or `bf26-meta-retargeting`.
 
 ### Google
 

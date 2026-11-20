@@ -3,6 +3,10 @@
 Newest first. One line per action, with where it happened.
 
 ## 20/11/2026
+- 23:40 Meta: new ad sets and the retargeting campaign switched on; 10 new ads submitted for review. Floors set at $920 (Kitchens) and $460 (Dual Fuel + 5 Burner); Meta refused $930 and $465 against the $1,400 budget. Old ad sets left on.
+- 23:35 Meta: 10 ads built through the API from The Hatch components 3, 6, 7, 11 and 14 (20/11 exports): Kitchens D, E, G; Dual Fuel v2; 5 Burner v2 B and C; Still thinking it over A and B; Kitchens cut 12s video twice (prospecting and retargeting). Store line added to every primary text.
+- 23:30 Meta: three audiences created on pixel `1912256846793050` (site visitors 30d, purchasers 30d, hero spot viewers); retargeting campaign ($350 a day) and ad set created; two prospecting ad sets created in the existing campaign.
+- 23:25 Meta: 27 statics and 3 Kitchens video files uploaded to the ad account library. API creative creation tested and found working (test creative deleted).
 - 22:18 Google Ads 608-068-0425: seven broad negatives added to Brand Search (propane, camping, tent, stove, lantern, ziegler, cobb). "cooler" left out on purpose because the store sells the Heller beverage cooler.
 - 22:12 Meta: prospecting campaign `120254782792610655` daily budget $640 to $1,400 (API, same route as the 16/11 step). Read back as $1,400; status showed "In process" straight after.
 - 22:11 Scheduled tasks: budget step 2 rewritten as a read-only Tuesday check at 07:30 on 24/11; budget step 3 (27/11) switched off.
