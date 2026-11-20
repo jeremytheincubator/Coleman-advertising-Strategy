@@ -35,3 +35,6 @@
 | 20/11 | Tilt towards Meta: prospecting $1,400, PMax $850 | Meta prospecting 6.0x on $6,234 against PMax 2.4x on $5,932 (platform figures); gap is smaller in GA4, so PMax is trimmed, not cut |
 | 20/11 | Hold about $5,900 until Tuesday 24/11 | The lead Meta ad is losing click rate; more money needs new creative first |
 | 20/11 | Sale and all ads end Saturday 28/11 | Confirmed by Jeremy |
+| 21/11 | PMax gets a 300% target return, budget stays $850 | Half of PMax spend went to Display for no sales; with no target Google buys the cheapest clicks. Jeremy's OK by voice |
+| 21/11 | Standard Shopping campaign is the fallback, not a feed-only PMax, and only if Display still dominates on Monday 23/11 | A target is one change with no rebuild; Standard Shopping cannot show on Display. Needs Jeremy's OK before it is built |
+| 21/11 | Gas BBQs asset group is not paused on 24/11 | All three asset groups now sit between 2.1x and 2.5x |

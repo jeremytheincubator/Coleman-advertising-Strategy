@@ -1,12 +1,12 @@
 # Where we're at
 
-Last updated: 21/11/2026 06:05 (Melbourne), times on 21/11 are approximate
+Last updated: 21/11/2026 07:20 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
-| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, limited by budget.** $5,932 spent 13/11 to 20/11, 6 purchases, $14,482 (2.4x). Kitchens $2,318 for 2 sales, Gas BBQs $2,218 for 3, Dual Fuel $1,396 for 1 | **$850 flat from 20/11** |
+| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, 300% target return set 21/11** (was Maximise conversion value with no target). $6,334 spent 13/11 to 07:15 on 21/11, 6 purchases, $14,482 (2.3x). Half the spend went to Display for no sales, see "PMax review 21/11" below. Expect a day or two of underspend while it relearns | **$850 flat from 20/11** |
 | BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$130 flat from 20/11** |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
@@ -30,7 +30,35 @@ Jeremy's instruction 20/11 23:07: two prospecting groups, Kitchens two thirds an
 
 Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad text say $4899); Dual Fuel cut 12s video (vertical renders are from 08/11, only 16:9 was re-rendered 20/11); Revolution 5 Burner cut 12s video (no render in The Hatch). Kitchens E artwork shows a Dual Fuel kitchen labelled "This 5 burner kitchen $4299", for Jeremy to confirm. Live ad "Kitchens from $1,949 B" in the old combined ad set carries six primary texts including 5 Burner and Pro Series copy, site links and a product set.
 
-Still to do: pause the Gas BBQs asset group on 24/11 if it has not improved.
+Still to do: exclude app placements in Google Ads by hand; check PMax placement split on Monday 23/11. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
+
+## PMax review 21/11
+
+Done by voice with Jeremy on the morning of 21/11. The total and the bid setting were read back from Google Ads at 07:15; the placement, device and search term figures are as reported in the voice review.
+
+| Placement, 13/11 to 21/11 | Spend | Sales | Revenue claimed | Return |
+|---|---|---|---|---|
+| Search and Shopping | $2,012 | 5 | $12,233 | 6.1x |
+| Display | $3,232 | 0 | $0 | none |
+| YouTube | $633 | 1 | $2,249 | 3.6x |
+| Gmail and Discover | $445 | 0 | $0 | none |
+
+- Shopping listings alone: $1,131 for 3 sales and $7,825 (6.9x). Shopping clicks cost about $2.28; the rest about $0.79.
+- Three of the six sales came from brand searches ("Coleman Revolution Dual Fuel BBQ"), which Brand Search should catch for less. No negatives or brand exclusions are set on PMax; it also shows on Weber, Bunnings and Harvey Norman searches for no sales.
+- Tablets: $940 and 1,458 clicks for no sales, which points to ads inside apps and games.
+- All spend was in Australia.
+- All three asset groups now sit between 2.1x and 2.5x, so pausing Gas BBQs on 24/11 is dropped.
+- All three asset groups land on the Black Friday page (Eitan asked for it), the weakest converting page in the 20/11 snapshot.
+- Each asset group has three to five videos; which ones has not been checked.
+- Only six sales, so the returns are soft. The spend split is the solid fact.
+
+**Changed 21/11 (Jeremy's OK by voice):** 300% target return on the PMax campaign. Budget unchanged.
+
+**Not done:** account-level app placement exclusion. The API returned a permission error twice. By hand: Tools, Content suitability, Excluded placements, add exclusions, App categories, tick all.
+
+**Fallback, needs Jeremy's OK:** if Display, Gmail and Discover still take most of the spend by Monday 23/11, add a Standard Shopping campaign at about $300 a day ending 28/11 and cut PMax to about $400, holding the other $150 a day until Tuesday's check. A feed-only PMax can still leak into Display; Standard Shopping cannot.
+
+The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief, task `42f0a265-37ca-40c5-8d88-bb45ddd69ad3`, Jeremy, due 21/11.
 
 ## Blockers
 
@@ -102,11 +130,11 @@ Still to do: pause the Gas BBQs asset group on 24/11 if it has not improved.
 - Ads account 608-068-0425 (`6080680425`) under The Incubator MCC 858-747-9186. API calls need header `login-customer-id: 8587479186`, API v26.
 - Merchant Center `5389799596`, linked and accepted. 90 products approved.
 - Primary purchase conversion: "Google Shopping App Purchase".
-- PMax: campaign `24453830824` "iGAF13265 | BF26 | PMax | Metro + store towns", budget `16023864847`, Maximise conversion value, presence only, ends 28/11 23:59, URL suffix `utm_source=google&utm_medium=cpc&utm_campaign=bf26-pmax`.
+- PMax: campaign `24453830824` "iGAF13265 | BF26 | PMax | Metro + store towns", budget `16023864847`, Maximise conversion value with 300% target return (from 21/11), presence only, ends 28/11 23:59, URL suffix `utm_source=google&utm_medium=cpc&utm_campaign=bf26-pmax`.
   - Asset group Kitchens `6771090819`: listing group product type "outdoor bbq kitchen".
   - Asset group Dual Fuel `6770974633`: listing group the 25 Dual Fuel item ids.
   - Asset group Gas BBQs `6771018548`: listing group product type "bbqs".
-- Brand Search: campaign `24440165243` "iGAF13265 BF26 | Search | Brand", budget `16012047969` ($85/day), lands on /pages/black-friday.
+- Brand Search: campaign `24440165243` "iGAF13265 BF26 | Search | Brand", budget `16012047969` ($130/day from 20/11), lands on /pages/black-friday.
 - Second Ads account 128-217-5264 (`1282175264`, "Coleman BBQs", set up by Coleman, not readable through the Composio connection). Holds a copy of Brand Search published 12/11: same 8 keywords, ad, 11 negatives, $85/day, Maximise clicks with $2.50 cap, Search network only, presence only, ends 28/11. Differences from the original: Hobart left out and end date 28/11 (original targets Hobart and ends 06/12). GA4 property 408580183 linked 12/11; GA4 `purchase` imported as the primary conversion ("Coleman BBQs Australia (web) purchase"). Also has an unfinished PMax draft "Campaign #1" and an inactive "Page view" conversion action.
 
 ### Scheduled tasks (Claude, cloud, run without approval, push a summary)

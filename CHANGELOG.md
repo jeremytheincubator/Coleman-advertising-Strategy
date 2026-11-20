@@ -3,6 +3,11 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- 07:20 The Hatch: task added to component 15 (PMax) on the Black Friday brief for Jeremy, due 21/11, listing the PMax follow-ups (app exclusion by hand, Display check 23/11, brand exclusions, landing pages, logo).
+- 07:15 Repo: PMax review and target return logged in STATE.md and DECISIONS.md. Read back from Google Ads at 07:15: PMax Maximise conversion value with target return 3.0, budget $850; Brand Search $130.
+- Morning (voice) Google Ads 608-068-0425: account-level app placement exclusion attempted twice, refused with a permission error. Not done.
+- Morning (voice) Google Ads 608-068-0425: PMax campaign `24453830824` given a 300% target return, on Jeremy's OK. Budget unchanged at $850 a day.
+- Morning (voice) Review, read only: PMax by placement, device and search term, 13/11 to 21/11. Display $3,232 for no sales; Search and Shopping $2,012 for 5 sales.
 - About 06:55 Meta, on Jeremy's instruction to turn off superseded ads: paused Kitchens from $1,949 A and B, New Revolution 5 Burner A and B and Dual Fuel from $1,949 B in the old combined ad set, and paused the three Purchase copy ad sets. Meta rate limited the account again, so the read-back of what remains active was not completed.
 - About 06:50 Meta: Kitchens D rebuilt as v3 with the corrected 9:16 (fourth export, 06:37); D v2 paused.
 - About 06:50 Meta: fixed Dual Fuel 4:5 render (12.7 seconds) uploaded; Dual Fuel video ads rebuilt as v2 with all three sizes in the Dual Fuel + 5 Burner group and retargeting; the two-size versions paused.
