@@ -3,6 +3,10 @@
 Newest first. One line per action, with where it happened.
 
 ## 20/11/2026
+- 22:12 Meta: prospecting campaign `120254782792610655` daily budget $640 to $1,400 (API, same route as the 16/11 step). Read back as $1,400; status showed "In process" straight after.
+- 22:11 Scheduled tasks: budget step 2 rewritten as a read-only Tuesday check at 07:30 on 24/11; budget step 3 (27/11) switched off.
+- 22:10 Google Ads 608-068-0425: PMax budget $670 to $850 a day; Brand Search budget $85 to $130 a day. Both read back correct.
+- Repo: PLAN.md flat phasing added, DECISIONS.md updated, STATE.md updated.
 - 22:00 Review (read only, nothing changed in Meta, Google, Shopify or The Hatch): spend about $15,450 of $43,200; Shopify 37 orders and about $90,500 since 08/11; sales slowed from 17/11; combined Add to cart ad set losing click rate; Purchase ad sets now show 10x on their 11/11 to 13/11 spend; PMax 2.4x; Brand Search 18x; retargeting still not built. Last-week plan recommended to Jeremy, awaiting his OK.
 - Repo: STATE.md brought up to date. 16/11 budget step (Meta $640, PMax $670) and the 17/11 end of video views recorded from what the platforms show.
 

@@ -31,3 +31,7 @@
 | 08/11 | $4,800 held from Black Friday goes to December "Delivered for Christmas" | The sale ends 28/11 |
 | 09/11 | Video views targeting moved from all of Australia to the agreed locations | Agreed targeting only |
 | 09/11 | Budget steps run as scheduled tasks on 16/11, 25/11 and 27/11 | Jeremy asked for them to be made automatically |
+| 20/11 | Flat daily budgets from 21/11 to 28/11 ($2,730 a day) replace the stepped Black Friday week and Peak phases | Jeremy wants spend evened out; people are buying now at the same price, and a 3.5x jump on 27/11 is the dearest time to scale |
+| 20/11 | Tilt towards Meta: prospecting $1,400, PMax $850 | Meta prospecting 6.0x on $6,234 against PMax 2.4x on $5,932 (platform figures); gap is smaller in GA4, so PMax is trimmed, not cut |
+| 20/11 | Hold about $5,900 until Tuesday 24/11 | The lead Meta ad is losing click rate; more money needs new creative first |
+| 20/11 | Sale and all ads end Saturday 28/11 | Confirmed by Jeremy |

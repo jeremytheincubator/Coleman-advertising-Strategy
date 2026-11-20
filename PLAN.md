@@ -39,6 +39,18 @@ Christmas gifting: Meta accessories $2,500, PMax accessories $1,500, "Delivered 
 
 Meta prospecting is about 40% and PMax about 42% of each day's total; the rest is retargeting, video views and Brand Search. Why front-loaded: see `DECISIONS.md`.
 
+## Phasing from 21/11 (flat, agreed 20/11, replaces the table above for the last eight days)
+
+| Line | Per day 21/11 to 28/11 | Eight-day total |
+|---|---|---|
+| Meta prospecting | $1,400 | $11,200 |
+| Meta retargeting (once built) | $350 | $2,800 |
+| Google PMax | $850 | $6,800 |
+| Google Brand Search | $130 | $1,040 |
+| **Total** | **$2,730** | **$21,840** |
+
+Spent to 20/11: about $15,450. Held: about $5,900, decided on Tuesday 24/11 (top up the last four days, or roll into December). Why: see `DECISIONS.md`.
+
 ## Targeting
 
 Free shipping is over $150 to metro only, so ads go where shipping is free or a Specialist Store is close.

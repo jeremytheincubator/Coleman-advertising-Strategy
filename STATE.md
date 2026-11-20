@@ -1,17 +1,17 @@
 # Where we're at
 
-Last updated: 20/11/2026 22:00 (Melbourne)
+Last updated: 20/11/2026 22:15 (Melbourne)
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
-| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, limited by budget.** $5,932 spent 13/11 to 20/11, 6 purchases, $14,482 (2.4x). Kitchens $2,318 for 2 sales, Gas BBQs $2,218 for 3, Dual Fuel $1,396 for 1 | $670 (step ran 16/11) |
-| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales | $85 |
+| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, limited by budget.** $5,932 spent 13/11 to 20/11, 6 purchases, $14,482 (2.4x). Kitchens $2,318 for 2 sales, Gas BBQs $2,218 for 3, Dual Fuel $1,396 for 1 | **$850 flat from 20/11** |
+| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Negatives not yet added. Ends 06/12, not 28/11 | **$130 flat from 20/11** |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
-| BF26 Prospecting, combined Add to cart ad set | Meta | **Live, out of learning.** $4,148 spent, 264 adds to cart, 10 purchases, $20,129 (4.9x). Click rate falling (4.85% on 15/11 to 2.70% on 20/11) and cost per thousand rising. "Kitchens from $1,949 B" has taken $2,393 of it | $640 (campaign budget, step ran 16/11) |
-| BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Still switched on but starved** since 14/11. 11/11 to 13/11 spend $1,730 now shows 5 purchases, $17,426 (10x) as later sales attributed back | shares the $640 |
+| BF26 Prospecting, combined Add to cart ad set | Meta | **Live, out of learning.** $4,148 spent, 264 adds to cart, 10 purchases, $20,129 (4.9x). Click rate falling (4.85% on 15/11 to 2.70% on 20/11) and cost per thousand rising. "Kitchens from $1,949 B" has taken $2,393 of it | **$1,400 flat from 20/11** (campaign budget; Meta showed "In process" straight after the change, confirm it is delivering on 21/11) |
+| BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Still switched on but starved** since 14/11. 11/11 to 13/11 spend $1,730 now shows 5 purchases, $17,426 (10x) as later sales attributed back | shares the $1,400 |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
 | BF26 Retargeting | Meta | **Still not built.** | $4,000 total, nothing spent |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
@@ -22,7 +22,9 @@ Black Friday budget $43,200. Spent about $15,450: Meta prospecting $6,234, Meta 
 
 Shopify 08/11 to 20/11: 37 orders, about $90,500, already past last year's Black Friday ($74,661) and the $85,000 target. 13/11 to 16/11 averaged about $13,900 a day; 17/11 to 20/11 about $5,900 a day on the same spend. Platforms claim 27 purchases and about $66,600 (Meta 15 for $37,554, Google 12 for $29,058).
 
-Plan for 21/11 to 28/11 recommended to Jeremy on 20/11, not yet approved: build retargeting, refresh the lead Meta ad, give the Kitchens Purchase ad set a spend floor as a head-to-head, hold the PMax peak at $1,500 instead of $2,350, lift Brand Search and add negatives. Nothing changed in the platforms.
+**Flat budgets approved by Jeremy 20/11 and set the same night:** Meta prospecting $1,400, Meta retargeting $350 (once built), PMax $850, Brand Search $130, total $2,730 a day to Saturday 28/11 ($21,840 over eight days). About $5,900 held for a decision on Tuesday 24/11: top up the last four days or roll into December.
+
+Still to do for the plan: build retargeting; add the new ads (Jeremy is planning 5 revised statics, 3 Kitchens and 2 Revolution 5 Burner, plus 2 or 3 product and price videos); give the Kitchens Purchase ad set a spend floor as a head-to-head; add Brand Search negatives; pause the Gas BBQs asset group on 24/11 if it has not improved.
 
 ## Blockers
 
@@ -45,8 +47,8 @@ Plan for 21/11 to 28/11 recommended to Jeremy on 20/11, not yet approved: build 
 - **16/11 (done)** Scheduled step ran: Meta prospecting $640, PMax $670.
 - **17/11 (done)** Video views campaign ended.
 - **20/11** Early access email was due. Not confirmed as sent at 22:00 on 20/11. Wording still says "early access" though the sale has been public since 08/11.
-- **25/11 00:05** Scheduled task: Meta prospecting $1,200, PMax $1,250. Also reports best cost per purchase for the $2,400 reserve.
-- **27/11 00:05** Scheduled task: Meta prospecting $2,260, PMax $2,350.
+- **24/11 07:30** Scheduled task (was budget step 2, now read only): reports performance since 21/11 and recommends what to do with the held $5,900.
+- **27/11** Budget step 3 switched off 20/11. No budget change is scheduled.
 - **28/11 23:59** All Black Friday ads stop (end dates set on PMax and Meta prospecting).
 
 ## Open items
@@ -101,5 +103,5 @@ Plan for 21/11 to 28/11 recommended to Jeremy on 20/11, not yet approved: build 
 ### Scheduled tasks (Claude, cloud, run without approval, push a summary)
 
 - `trig_01NfYfBxcFK6ChusDzXeDp5N` 16/11 00:05 budget step 1
-- `trig_01P9QavGvNxHtgLpYgSnJbRF` 25/11 00:05 budget step 2
-- `trig_013Qo5aATtPpP3ceRcn2qyig` 27/11 00:05 budget step 3
+- `trig_01P9QavGvNxHtgLpYgSnJbRF` 24/11 07:30 Tuesday check, read only (was budget step 2)
+- `trig_013Qo5aATtPpP3ceRcn2qyig` budget step 3, switched off 20/11
