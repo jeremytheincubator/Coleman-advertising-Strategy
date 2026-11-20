@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- 08:00 Check (read only): all 15 new Meta ads approved and active, none rejected; paused ads and ad sets confirmed paused (the read-back missed at 06:55). Spend since midnight: Kitchens $204, Dual Fuel + 5 Burner $113, Retargeting $103, old combined $5.
 - 07:20 The Hatch: task added to component 15 (PMax) on the Black Friday brief for Jeremy, due 21/11, listing the PMax follow-ups (app exclusion by hand, Display check 23/11, brand exclusions, landing pages, logo).
 - 07:15 Repo: PMax review and target return logged in STATE.md and DECISIONS.md. Read back from Google Ads at 07:15: PMax Maximise conversion value with target return 3.0, budget $850; Brand Search $130.
 - Morning (voice) Google Ads 608-068-0425: account-level app placement exclusion attempted twice, refused with a permission error. Not done.

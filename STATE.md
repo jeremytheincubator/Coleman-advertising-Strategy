@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 21/11/2026 07:20 (Melbourne), times on 21/11 are approximate
+Last updated: 21/11/2026 08:05 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -31,6 +31,10 @@ Jeremy's instruction 20/11 23:07: two prospecting groups, Kitchens two thirds an
 Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad text say $4899); Dual Fuel cut 12s video (vertical renders are from 08/11, only 16:9 was re-rendered 20/11); Revolution 5 Burner cut 12s video (no render in The Hatch). Kitchens E artwork shows a Dual Fuel kitchen labelled "This 5 burner kitchen $4299", for Jeremy to confirm. Live ad "Kitchens from $1,949 B" in the old combined ad set carries six primary texts including 5 Burner and Pro Series copy, site links and a product set.
 
 Still to do: exclude app placements in Google Ads by hand; check PMax placement split on Monday 23/11. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
+
+## Meta check 21/11 08:00
+
+All 15 ads in the two new prospecting groups and retargeting are approved and active, none rejected or in review, no issues flagged on the ad sets. Every superseded ad and the three Purchase copy ad sets read back as paused. Spend since midnight: Kitchens $204, Dual Fuel + 5 Burner $113, Retargeting $103, old combined ad set $5 (three un-revised ads still on).
 
 ## PMax review 21/11
 
