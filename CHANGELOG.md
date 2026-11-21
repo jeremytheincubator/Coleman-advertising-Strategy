@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 21/11/2026
+- 13:41 The Hatch: Paid > Plan vs live set live (thehatch.com.au/?c=coleman&go=plive). Coleman loaded with two versions (Launch set-up 08/11 to 20/11, Final week from 21/11), Black Friday ads linked to their iGAF13265 components, PMax and Brand Search budgets and bids entered by hand, and the Paid retargeting campaign linked to Meta campaign `120255003073230655`. Read every hour from here.
 - 12:50 Meta, on Jeremy's instruction: paused the last three old ads (Kitchens Save up to $900, Dual Fuel Save up to $900 A, Revolution BBQs price B) and the old combined ad set `120254853520690655`. Read back as paused. All 15 new ads confirmed active.
 - 08:00 Check (read only): all 15 new Meta ads approved and active, none rejected; paused ads and ad sets confirmed paused (the read-back missed at 06:55). Spend since midnight: Kitchens $204, Dual Fuel + 5 Burner $113, Retargeting $103, old combined $5.
 - 07:20 The Hatch: task added to component 15 (PMax) on the Black Friday brief for Jeremy, due 21/11, listing the PMax follow-ups (app exclusion by hand, Display check 23/11, brand exclusions, landing pages, logo).

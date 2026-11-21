@@ -77,6 +77,8 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 
 ## Reporting in The Hatch
 
+- **Plan vs live (21/11):** Paid > Plan vs live shows the plan beside the live set-up, versions with reasons, each ad's component and version, and changes spotted each hour. Start a new version there whenever the structure changes. Google budget and bid are entered by hand (PMax $850, 300% target return; Brand Search $130), so update them there if they change.
+
 - Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 09:05: script running hourly in Google Ads (first push 08:11), Campaign reporting page now shows Google beside Meta (live on thehatch.com.au).
 - Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.
 - Meta reporting still needs the system user token: Campaign reporting > "Add Coleman's Meta ads too".
