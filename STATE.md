@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 21/11/2026 08:05 (Melbourne), times on 21/11 are approximate
+Last updated: 21/11/2026 12:50 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -10,7 +10,7 @@ Last updated: 21/11/2026 08:05 (Melbourne), times on 21/11 are approximate
 | BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$130 flat from 20/11** |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
-| BF26 Prospecting, old combined Add to cart ad set | Meta | **On, but only three ads left running** (Kitchens Save up to $900, Dual Fuel Save up to $900 A, Revolution BBQs price B). The five ads superseded by 20/11 and 21/11 revisions were paused 21/11. Can take at most about $20 a day | shares the $1,400 |
+| BF26 Prospecting, old combined Add to cart ad set | Meta | **Paused 21/11 12:50** on Jeremy's instruction, with its last three ads (Kitchens Save up to $900, Dual Fuel Save up to $900 A, Revolution BBQs price B). All of the $1,400 now goes to the two new groups | none |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Paused 21/11** as superseded | none |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
 | BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | $350 a day |
@@ -35,6 +35,10 @@ Still to do: exclude app placements in Google Ads by hand; check PMax placement 
 ## Meta check 21/11 08:00
 
 All 15 ads in the two new prospecting groups and retargeting are approved and active, none rejected or in review, no issues flagged on the ad sets. Every superseded ad and the three Purchase copy ad sets read back as paused. Spend since midnight: Kitchens $204, Dual Fuel + 5 Burner $113, Retargeting $103, old combined ad set $5 (three un-revised ads still on).
+
+## Meta check 21/11 12:50
+
+All 15 new ads still active with no issues. Spend since midnight about $885 across the new ads; retargeting "Slow burn, nearly ready (B) v2" has the day's first tracked purchase. Old combined ad set and its last three ads paused.
 
 ## PMax review 21/11
 
