@@ -38,7 +38,7 @@ All 15 ads in the two new prospecting groups and retargeting are approved and ac
 
 ## Meta check 21/11 12:50
 
-All 15 new ads still active with no issues. Spend since midnight about $885 across the new ads; retargeting "Slow burn, nearly ready (B) v2" has the day's first tracked purchase. Old combined ad set and its last three ads paused.
+All 15 new ads still active with no issues. Spend since midnight about $915 across the three new ad sets; retargeting "Slow burn, nearly ready (B) v2" has the day's first tracked purchase. Old combined ad set and its last three ads paused.
 
 ## PMax review 21/11
 
