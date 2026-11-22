@@ -49,6 +49,8 @@ Meta prospecting is about 40% and PMax about 42% of each day's total; the rest i
 | Google Brand Search | $130 | $1,040 |
 | **Total** | **$2,730** | **$21,840** |
 
+From 22/11 PMax is $400 a day (Jeremy's OK by voice, no PMax sales since the 300% target went on). Total $2,280 a day; the $450 a day taken off PMax, about $3,150 to 28/11, joins the money held for the 24/11 decision.
+
 Spent to 20/11: about $15,450. Held: about $5,900, decided on Tuesday 24/11 (top up the last four days, or roll into December). Why: see `DECISIONS.md`.
 
 ## Targeting

@@ -38,3 +38,4 @@
 | 21/11 | PMax gets a 300% target return, budget stays $850 | Half of PMax spend went to Display for no sales; with no target Google buys the cheapest clicks. Jeremy's OK by voice |
 | 21/11 | Standard Shopping campaign is the fallback, not a feed-only PMax, and only if Display still dominates on Monday 23/11 | A target is one change with no rebuild; Standard Shopping cannot show on Display. Needs Jeremy's OK before it is built |
 | 21/11 | Gas BBQs asset group is not paused on 24/11 | All three asset groups now sit between 2.1x and 2.5x |
+| 22/11 | PMax cut from $850 to $400 a day, target return stays at 300% | No PMax sales since the target went on (about $1,630 over 21/11 and the morning of 22/11), clicks up to about $3.40 on search; Brand Search is catching the brand sales. Jeremy's OK by voice |

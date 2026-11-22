@@ -1,12 +1,12 @@
 # Where we're at
 
-Last updated: 21/11/2026 12:50 (Melbourne), times on 21/11 are approximate
+Last updated: 22/11/2026 11:45 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
-| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, 300% target return set 21/11** (was Maximise conversion value with no target). $6,334 spent 13/11 to 07:15 on 21/11, 6 purchases, $14,482 (2.3x). Half the spend went to Display for no sales, see "PMax review 21/11" below. Expect a day or two of underspend while it relearns | **$850 flat from 20/11** |
+| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, budget cut to $400 on 22/11** (Jeremy's OK by voice), 300% target return kept (set 21/11). The target stopped the Display spend, but since it went on PMax has made no sales: about $1,008 on 21/11 and $628 by 11:45 on 22/11, nearly all on search, with clicks now about $3.40 each. It was also spending past its $850 budget. $6,334 spent 13/11 to 07:15 on 21/11 for 6 purchases, $14,482 (2.3x), see "PMax review 21/11" | **$400 from 22/11** (was $850) |
 | BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$130 flat from 20/11** |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
@@ -30,7 +30,13 @@ Jeremy's instruction 20/11 23:07: two prospecting groups, Kitchens two thirds an
 
 Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad text say $4899); Dual Fuel cut 12s video (vertical renders are from 08/11, only 16:9 was re-rendered 20/11); Revolution 5 Burner cut 12s video (no render in The Hatch). Kitchens E artwork shows a Dual Fuel kitchen labelled "This 5 burner kitchen $4299", for Jeremy to confirm. Live ad "Kitchens from $1,949 B" in the old combined ad set carries six primary texts including 5 Burner and Pro Series copy, site links and a product set.
 
-Still to do: exclude app placements in Google Ads by hand; check PMax placement split on Monday 23/11. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
+Still to do: exclude app placements in Google Ads (set up in Jeremy's Chrome on 21/11 but Save was not clicked; read back 22/11 11:45, no app exclusion on the account); check PMax on Monday 23/11 at $400. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
+
+**Daily budgets from 22/11:** Meta prospecting $1,400, retargeting $350, PMax $400, Brand Search $130, total $2,280 a day. The $450 a day taken off PMax (about $3,150 to 28/11) joins the roughly $5,900 held for the Tuesday 24/11 decision.
+
+## Check 22/11 11:45 (voice, then read back)
+
+No Shopify orders yet today by late morning, but Meta shows 18 add to carts, so the site and tracking look to be working. 21/11: four orders for about $6,700 on about $3,000 of ad spend. Brand Search made 2 sales for $2,234 on $220 on 21/11. PMax made none on 21/11 or by 11:45 on 22/11 (see the PMax row). Read back from Google Ads at 11:45: PMax budget $400, target return 3.0; Brand Search $130. The Hatch's Plan vs live logged the PMax budget change.
 
 ## Meta check 21/11 08:00
 
@@ -77,7 +83,7 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 
 ## Reporting in The Hatch
 
-- **Plan vs live (21/11):** Paid > Plan vs live shows the plan beside the live set-up, versions with reasons, each ad's component and version, and changes spotted each hour. Start a new version there whenever the structure changes. Google budget and bid are entered by hand (PMax $850, 300% target return; Brand Search $130), so update them there if they change.
+- **Plan vs live (21/11):** Paid > Plan vs live shows the plan beside the live set-up, versions with reasons, each ad's component and version, and changes spotted each hour. Start a new version there whenever the structure changes. Google budget and bid are entered by hand (PMax $400 from 22/11, 300% target return; Brand Search $130), so update them there if they change.
 
 - Google feeds Digital > Campaign reporting through the Google Ads script (see `google-ads-reporting.md`). Status 10/11 09:05: script running hourly in Google Ads (first push 08:11), Campaign reporting page now shows Google beside Meta (live on thehatch.com.au).
 - Direct Google Ads API needs Basic access on the MCC developer token. Application text is in `google-ads-reporting.md`.

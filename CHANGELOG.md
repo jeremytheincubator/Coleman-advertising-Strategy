@@ -2,7 +2,17 @@
 
 Newest first. One line per action, with where it happened.
 
+## 22/11/2026
+- 11:45 Repo: STATE.md, PLAN.md, DECISIONS.md and this log updated for 21/11 and 22/11. Read back from Google Ads: PMax budget $400, target return 3.0; Brand Search $130; no app placement exclusion on the account.
+- Morning (voice) Google Ads 608-068-0425: PMax campaign `24453830824` budget `16023864847` cut from $850 to $400 a day on Jeremy's OK, 300% target return kept. It had spent about $620 of the day already. Logged in The Hatch's Plan vs live.
+- Morning (voice) Check, read only: no orders yet today, 18 Meta add to carts; 21/11 four orders for about $6,700; PMax no sales since the target return went on.
+
 ## 21/11/2026
+- 13:20 to 13:41 The Hatch (thehatch.com.au): Plan vs live built and set live. New tables `paid_live`, `paid_live_changes`, `paid_versions`; ad-metrics function reads the Meta and Google set-up every hour; Paid > Plan vs live tab for the team. Backup `index-20261121-1341.html`.
+- Afternoon (voice) Teamwork: Rheymar tagged on the Talking BBQs card (iGAF13295) asking if the recut is done.
+- Afternoon (voice) Read only: one Shopify order on 21/11 by early afternoon ($1,182, about 7:45am). Meta counted it as a retargeting sale, but Shopify shows both of the buyer's visits as direct to the home page with no ad tags, so it was a view, not a click.
+- Afternoon (voice) Read only: after the target return, PMax search and Shopping took about 87% of the day's spend (Display $56 against $272 the day before).
+- 07:45 Google Ads (Jeremy's Chrome): app placement exclusion ("App categories > All Apps") set up on Content suitability but Save not clicked, so not applied.
 - 13:41 The Hatch: Paid > Plan vs live set live (thehatch.com.au/?c=coleman&go=plive). Coleman loaded with two versions (Launch set-up 08/11 to 20/11, Final week from 21/11), Black Friday ads linked to their iGAF13265 components, PMax and Brand Search budgets and bids entered by hand, and the Paid retargeting campaign linked to Meta campaign `120255003073230655`. Read every hour from here.
 - 12:50 Meta, on Jeremy's instruction: paused the last three old ads (Kitchens Save up to $900, Dual Fuel Save up to $900 A, Revolution BBQs price B) and the old combined ad set `120254853520690655`. Read back as paused. All 15 new ads confirmed active.
 - 08:00 Check (read only): all 15 new Meta ads approved and active, none rejected; paused ads and ad sets confirmed paused (the read-back missed at 06:55). Spend since midnight: Kitchens $204, Dual Fuel + 5 Burner $113, Retargeting $103, old combined $5.
