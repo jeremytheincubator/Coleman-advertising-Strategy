@@ -2,6 +2,9 @@
 
 Newest first. One line per action, with where it happened.
 
+## 23/11/2026
+- 05:25 The Hatch Paid: Talking BBQs added to the planner as a hero video reprise under BF26 Meta | Awareness | Hero spot video views (campaign now ends 24/11, budget $3,000, $250 a day for 23/11 and 24/11), sprint "Reprise: Talking BBQs" with concept "Talking BBQs brand ad" ($500, live), Meta campaign `120255027367280655` linked; in Plan vs live the ad is linked to iGAF13295 component 1. Ad approved and spending from midnight ($23, about 1,000 ThruPlays by 05:20).
+
 ## 22/11/2026
 - 21:40 Meta, on Jeremy's instruction: Talking BBQs brand campaign built (Engagement, ThruPlay, $500 lifetime, 23/11 and 24/11, metro + store towns 35 to 65, purchasers excluded) from The Hatch iGAF13295 component 1, 9:16 export. Copy written by Claude, link /pages/black-friday. Ad in review.
 - 11:45 Repo: STATE.md, PLAN.md, DECISIONS.md and this log updated for 21/11 and 22/11. Read back from Google Ads: PMax budget $400, target return 3.0; Brand Search $130; no app placement exclusion on the account.
