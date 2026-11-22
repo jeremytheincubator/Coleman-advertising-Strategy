@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 22/11/2026
+- 21:40 Meta, on Jeremy's instruction: Talking BBQs brand campaign built (Engagement, ThruPlay, $500 lifetime, 23/11 and 24/11, metro + store towns 35 to 65, purchasers excluded) from The Hatch iGAF13295 component 1, 9:16 export. Copy written by Claude, link /pages/black-friday. Ad in review.
 - 11:45 Repo: STATE.md, PLAN.md, DECISIONS.md and this log updated for 21/11 and 22/11. Read back from Google Ads: PMax budget $400, target return 3.0; Brand Search $130; no app placement exclusion on the account.
 - Morning (voice) Google Ads 608-068-0425: PMax campaign `24453830824` budget `16023864847` cut from $850 to $400 a day on Jeremy's OK, 300% target return kept. It had spent about $620 of the day already. Logged in The Hatch's Plan vs live.
 - Morning (voice) Check, read only: no orders yet today, 18 Meta add to carts; 21/11 four orders for about $6,700; PMax no sales since the target return went on.

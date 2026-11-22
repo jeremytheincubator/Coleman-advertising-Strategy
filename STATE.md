@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 22/11/2026 11:45 (Melbourne), times on 21/11 are approximate
+Last updated: 22/11/2026 21:45 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -16,6 +16,7 @@ Last updated: 22/11/2026 11:45 (Melbourne), times on 21/11 are approximate
 | BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | $350 a day |
 | BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:55 on 21/11: Kitchens from $1,949 D v3 (all three sizes now read "This 5 burner kitchen $4499"), E v3, F v2, G and the Kitchens cut 12s video. All earlier versions paused | floor $920 a day inside the $1,400 |
 | BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v3 B and C (21/11 artwork, replacing v2), and the Dual Fuel cut 12s video v2 (all three sizes; the 4:5 was re-rendered at 12.7 seconds on 21/11). Revolution 5 Burner 3 second video added 21/11 in all three sizes (Jeremy confirmed 3 seconds is intended), also added to retargeting | floor $460 a day inside the $1,400 |
+| BF26 Brand, Talking BBQs (iGAF13295) | Meta | **Built 22/11 21:40, runs 23/11 00:00 to 24/11 23:59** on Jeremy's instruction. Campaign `120255027367280655` (Engagement), ad set `120255027367370655` (ThruPlay, $500 lifetime, metro + store towns, 35 to 65, purchasers excluded), ad `120255027368870655` (in review at 21:40), video `2180352319245868` (9:16 only, 61s), creative `1450521326795007`. Goes to /pages/black-friday, UTM utm_campaign=bf26-meta-brand&utm_content=talking-bbqs | **$500 over two days** |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
 
 ## Spend against plan (to 22:00 on 20/11)
@@ -32,7 +33,7 @@ Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad t
 
 Still to do: exclude app placements in Google Ads (set up in Jeremy's Chrome on 21/11 but Save was not clicked; read back 22/11 11:45, no app exclusion on the account); check PMax on Monday 23/11 at $400. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
 
-**Daily budgets from 22/11:** Meta prospecting $1,400, retargeting $350, PMax $400, Brand Search $130, total $2,280 a day. The $450 a day taken off PMax (about $3,150 to 28/11) joins the roughly $5,900 held for the Tuesday 24/11 decision.
+**Daily budgets from 22/11:** Meta prospecting $1,400, retargeting $350, PMax $400, Brand Search $130, total $2,280 a day. The $450 a day taken off PMax (about $3,150 to 28/11) joins the roughly $5,900 held for the Tuesday 24/11 decision. $500 of the held money goes to the Talking BBQs brand ad on 23/11 and 24/11.
 
 ## Check 22/11 11:45 (voice, then read back)
 
