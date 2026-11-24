@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 24/11/2026 17:21 (Melbourne), times on 21/11 are approximate
+Last updated: 24/11/2026 17:34 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -10,12 +10,12 @@ Last updated: 24/11/2026 17:21 (Melbourne), times on 21/11 are approximate
 | BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$280 from 24/11** (was $130) |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
-| BF26 Prospecting, old combined Add to cart ad set | Meta | **Switched back on 24/11 17:21** on Jeremy's instruction, with its last three ads (Kitchens Save up to $900, Dual Fuel Save up to $900 A, Revolution BBQs price B). Paused 21/11 12:50 to 24/11. The other five older ads in it stay paused | floor $230 a day inside the $1,400 |
+| BF26 Prospecting, old combined Add to cart ad set | Meta | **Switched back on 24/11 17:21** on Jeremy's instruction. Ads live from 17:34: Kitchens from $1,949 A and B, New Revolution 5 Burner A, Dual Fuel Save up to $900 A. Paused: Kitchens Save up to $900, Revolution BBQs price B, Dual Fuel from $1,949 B, New Revolution 5 Burner B. Kitchens B is off-spec (six texts, site links, product set); A and B prices not rechecked | floor $530 a day inside the $1,952 |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Paused 21/11** as superseded | none |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
 | BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | **$600 a day from 24/11** (was $350) |
-| BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:55 on 21/11: Kitchens from $1,949 D v3 (all three sizes now read "This 5 burner kitchen $4499"), E v3, F v2, G and the Kitchens cut 12s video. All earlier versions paused | floor $920 a day inside the $1,400 |
-| BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v3 B and C (21/11 artwork, replacing v2), and the Dual Fuel cut 12s video v2 (all three sizes; the 4:5 was re-rendered at 12.7 seconds on 21/11). Revolution 5 Burner 3 second video added 21/11 in all three sizes (Jeremy confirmed 3 seconds is intended), also added to retargeting | floor $230 a day inside the $1,400 (was $460 to 24/11) |
+| BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:55 on 21/11: Kitchens from $1,949 D v3 (all three sizes now read "This 5 burner kitchen $4499"), E v3, F v2, G and the Kitchens cut 12s video. All earlier versions paused | floor $1,150 a day inside the $1,952 (was $920) |
+| BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v3 B and C (21/11 artwork, replacing v2), and the Dual Fuel cut 12s video v2 (all three sizes; the 4:5 was re-rendered at 12.7 seconds on 21/11). Revolution 5 Burner 3 second video added 21/11 in all three sizes (Jeremy confirmed 3 seconds is intended), also added to retargeting | floor $230 a day inside the $1,952 (was $460 to 24/11 17:21) |
 | BF26 Brand, Talking BBQs (iGAF13295), hero video reprise | Meta | **Live from 23/11, in the Paid planner under the hero spot campaign.** Built 22/11 21:40, runs 23/11 00:00 to 24/11 23:59** on Jeremy's instruction. Campaign `120255027367280655` (Engagement), ad set `120255027367370655` (ThruPlay, $500 lifetime, metro + store towns, 35 to 65, purchasers excluded), ad `120255027368870655` (approved, spending from 00:00 23/11), video `2180352319245868` (9:16 only, 61s), creative `1450521326795007`. Goes to /pages/black-friday, UTM utm_campaign=bf26-meta-brand&utm_content=talking-bbqs | **$500 over two days** |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
 
@@ -32,6 +32,8 @@ Jeremy's instruction 20/11 23:07: two prospecting groups, Kitchens two thirds an
 Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad text say $4899); Dual Fuel cut 12s video (vertical renders are from 08/11, only 16:9 was re-rendered 20/11); Revolution 5 Burner cut 12s video (no render in The Hatch). Kitchens E artwork shows a Dual Fuel kitchen labelled "This 5 burner kitchen $4299", for Jeremy to confirm. Live ad "Kitchens from $1,949 B" in the old combined ad set carries six primary texts including 5 Burner and Pro Series copy, site links and a product set.
 
 Still to do: exclude app placements in Google Ads (set up in Jeremy's Chrome on 21/11 but Save was not clicked; read back 22/11 11:45, no app exclusion on the account); check PMax on Monday 23/11 at $400. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
+
+**Daily budgets from 24/11 17:34, even to 28/11 (Jeremy):** Meta prospecting $1,952 (floors Kitchens $1,150, old combined $530, Dual Fuel + 5 Burner $230), retargeting $600, Brand Search $280, PMax paused, total $2,832 a day, $11,328 for 25/11 to 28/11 to match the Hatch tracker's four-day total. The tracker itself still shows the stepped 18/11 phasing ($2,752 Wed and Thu, $2,912 Fri and Sat).
 
 **Daily budgets from 24/11 17:10:** Meta prospecting $1,400 (from 17:21 floors Kitchens $920, Dual Fuel + 5 Burner $230, old combined $230), retargeting $600, PMax paused, Brand Search $280, total $2,280 a day (unchanged total).
 
