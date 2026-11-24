@@ -3,6 +3,8 @@
 Newest first. One line per action, with where it happened.
 
 ## 24/11/2026
+- 17:10 Google Ads 608-068-0425, on Jeremy's instruction: PMax campaign `24453830824` paused (supersedes the 17:08 target removal; the Standard Shopping fallback not built, too little time to bed in). Brand Search budget `16012047969` $130 to $280 a day. Read back: PMax PAUSED, Brand Search $280.
+- 17:11 Meta, on Jeremy's instruction: retargeting campaign `120255003073230655` daily budget $350 to $600. Read back $600.
 - 17:08 Google Ads 608-068-0425, on Jeremy's instruction: 300% target return removed from PMax campaign `24453830824`; now plain Maximise conversion value. Budget unchanged at $400. Read back: MAXIMIZE_CONVERSION_VALUE, no target ROAS, $400. Reason: since the target went on 21/11, PMax made 1 sale ($1,149) on about $2,725 (0.4x), against about 2.5x in the four days before. Expect Display spend to come back; the app placement exclusion is still not applied.
 
 ## 23/11/2026
