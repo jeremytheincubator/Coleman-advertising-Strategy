@@ -2,6 +2,9 @@
 
 Newest first. One line per action, with where it happened.
 
+## 24/11/2026
+- 17:08 Google Ads 608-068-0425, on Jeremy's instruction: 300% target return removed from PMax campaign `24453830824`; now plain Maximise conversion value. Budget unchanged at $400. Read back: MAXIMIZE_CONVERSION_VALUE, no target ROAS, $400. Reason: since the target went on 21/11, PMax made 1 sale ($1,149) on about $2,725 (0.4x), against about 2.5x in the four days before. Expect Display spend to come back; the app placement exclusion is still not applied.
+
 ## 23/11/2026
 - 05:25 The Hatch Paid: Talking BBQs added to the planner as a hero video reprise under BF26 Meta | Awareness | Hero spot video views (campaign now ends 24/11, budget $3,000, $250 a day for 23/11 and 24/11), sprint "Reprise: Talking BBQs" with concept "Talking BBQs brand ad" ($500, live), Meta campaign `120255027367280655` linked; in Plan vs live the ad is linked to iGAF13295 component 1. Ad approved and spending from midnight ($23, about 1,000 ThruPlays by 05:20).
 

@@ -1,12 +1,12 @@
 # Where we're at
 
-Last updated: 23/11/2026 05:25 (Melbourne), times on 21/11 are approximate
+Last updated: 24/11/2026 17:08 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
-| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live, budget cut to $400 on 22/11** (Jeremy's OK by voice), 300% target return kept (set 21/11). The target stopped the Display spend, but since it went on PMax has made no sales: about $1,008 on 21/11 and $628 by 11:45 on 22/11, nearly all on search, with clicks now about $3.40 each. It was also spending past its $850 budget. $6,334 spent 13/11 to 07:15 on 21/11 for 6 purchases, $14,482 (2.3x), see "PMax review 21/11" | **$400 from 22/11** (was $850) |
+| BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Live. 300% target return removed 24/11 17:08 (Jeremy), back to plain Maximise conversion value at $400.** Since the target went on: 1 sale, $1,149, on about $2,725 (21/11 to 24/11). Earlier: budget cut to $400 on 22/11 (Jeremy's OK by voice), 300% target return kept (set 21/11). The target stopped the Display spend, but since it went on PMax has made no sales: about $1,008 on 21/11 and $628 by 11:45 on 22/11, nearly all on search, with clicks now about $3.40 each. It was also spending past its $850 budget. $6,334 spent 13/11 to 07:15 on 21/11 for 6 purchases, $14,482 (2.3x), see "PMax review 21/11" | **$400 from 22/11** (was $850) |
 | BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$130 flat from 20/11** |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
@@ -147,7 +147,7 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 - Ads account 608-068-0425 (`6080680425`) under The Incubator MCC 858-747-9186. API calls need header `login-customer-id: 8587479186`, API v26.
 - Merchant Center `5389799596`, linked and accepted. 90 products approved.
 - Primary purchase conversion: "Google Shopping App Purchase".
-- PMax: campaign `24453830824` "iGAF13265 | BF26 | PMax | Metro + store towns", budget `16023864847`, Maximise conversion value with 300% target return (from 21/11), presence only, ends 28/11 23:59, URL suffix `utm_source=google&utm_medium=cpc&utm_campaign=bf26-pmax`.
+- PMax: campaign `24453830824` "iGAF13265 | BF26 | PMax | Metro + store towns", budget `16023864847`, Maximise conversion value, no target (300% target return 21/11 to 24/11, removed), presence only, ends 28/11 23:59, URL suffix `utm_source=google&utm_medium=cpc&utm_campaign=bf26-pmax`.
   - Asset group Kitchens `6771090819`: listing group product type "outdoor bbq kitchen".
   - Asset group Dual Fuel `6770974633`: listing group the 25 Dual Fuel item ids.
   - Asset group Gas BBQs `6771018548`: listing group product type "bbqs".
