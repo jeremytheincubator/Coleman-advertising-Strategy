@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 24/11/2026 17:34 (Melbourne), times on 21/11 are approximate
+Last updated: 24/11/2026 17:48 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -33,7 +33,7 @@ Not loaded: Kitchens version F (artwork says "to $4494", the others and the ad t
 
 Still to do: exclude app placements in Google Ads (set up in Jeremy's Chrome on 21/11 but Save was not clicked; read back 22/11 11:45, no app exclusion on the account); check PMax on Monday 23/11 at $400. The 24/11 Gas BBQs pause is dropped (see PMax review 21/11).
 
-**Daily budgets from 24/11 17:34, even to 28/11 (Jeremy):** Meta prospecting $1,952 (floors Kitchens $1,150, old combined $530, Dual Fuel + 5 Burner $230), retargeting $600, Brand Search $280, PMax paused, total $2,832 a day, $11,328 for 25/11 to 28/11 to match the Hatch tracker's four-day total. The tracker itself still shows the stepped 18/11 phasing ($2,752 Wed and Thu, $2,912 Fri and Sat).
+**Daily budgets from 24/11 17:34, even to 28/11 (Jeremy):** Meta prospecting $1,952 (floors Kitchens $1,150, old combined $530, Dual Fuel + 5 Burner $230), retargeting $600, Brand Search $280, PMax paused, total $2,832 a day, $11,328 for 25/11 to 28/11 to match the Hatch tracker's four-day total. The Hatch spend tracker re-phased 24/11 17:48 to the same $2,832 a day for 25/11 to 28/11.
 
 **Daily budgets from 24/11 17:10:** Meta prospecting $1,400 (from 17:21 floors Kitchens $920, Dual Fuel + 5 Burner $230, old combined $230), retargeting $600, PMax paused, Brand Search $280, total $2,280 a day (unchanged total).
 
