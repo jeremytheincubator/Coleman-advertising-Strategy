@@ -1,6 +1,6 @@
 # Where we're at
 
-Last updated: 24/11/2026 17:48 (Melbourne), times on 21/11 are approximate
+Last updated: 25/11/2026 22:45 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
@@ -13,11 +13,17 @@ Last updated: 24/11/2026 17:48 (Melbourne), times on 21/11 are approximate
 | BF26 Prospecting, old combined Add to cart ad set | Meta | **Switched back on 24/11 17:21** on Jeremy's instruction. Ads live from 17:34: Kitchens from $1,949 A and B, New Revolution 5 Burner A, Dual Fuel Save up to $900 A. Paused: Kitchens Save up to $900, Revolution BBQs price B, Dual Fuel from $1,949 B, New Revolution 5 Burner B. Kitchens B is off-spec (six texts, site links, product set); A and B prices not rechecked | floor $530 a day inside the $1,952 |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Paused 21/11** as superseded | none |
 | BF26 Prospecting, three original Purchase ad sets | Meta | **Paused 11/11** (old pixel), $356 spent, no tracked results | none |
-| BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, Facebook and Instagram engagers; purchasers excluded). 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | **$600 a day from 24/11** (was $350) |
+| BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, **Talking BBQs viewers (added 25/11)**, Facebook and Instagram engagers; purchasers excluded). Advertiser and payer set to Coleman Barbeques Australia 25/11. 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | **$600 a day from 24/11** (was $350) |
 | BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:55 on 21/11: Kitchens from $1,949 D v3 (all three sizes now read "This 5 burner kitchen $4499"), E v3, F v2, G and the Kitchens cut 12s video. All earlier versions paused | floor $1,150 a day inside the $1,952 (was $920) |
 | BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v3 B and C (21/11 artwork, replacing v2), and the Dual Fuel cut 12s video v2 (all three sizes; the 4:5 was re-rendered at 12.7 seconds on 21/11). Revolution 5 Burner 3 second video added 21/11 in all three sizes (Jeremy confirmed 3 seconds is intended), also added to retargeting | floor $230 a day inside the $1,952 (was $460 to 24/11 17:21) |
-| BF26 Brand, Talking BBQs (iGAF13295), hero video reprise | Meta | **Live from 23/11, in the Paid planner under the hero spot campaign.** Built 22/11 21:40, runs 23/11 00:00 to 24/11 23:59** on Jeremy's instruction. Campaign `120255027367280655` (Engagement), ad set `120255027367370655` (ThruPlay, $500 lifetime, metro + store towns, 35 to 65, purchasers excluded), ad `120255027368870655` (approved, spending from 00:00 23/11), video `2180352319245868` (9:16 only, 61s), creative `1450521326795007`. Goes to /pages/black-friday, UTM utm_campaign=bf26-meta-brand&utm_content=talking-bbqs | **$500 over two days** |
+| BF26 Brand, Talking BBQs (iGAF13295), hero video reprise | Meta | **Back on from 22:40 on 25/11, ends 27/11 23:59** (Jeremy, 25/11). First run 23/11 to 24/11: $497.94, 10,529 reached, 22,397 ThruPlays (about 2c each), 2,454 full views, 55 link clicks, no tracked sales; 65+ took 48% of spend because Advantage+ audience was on. Second run: ages 30 to 49 as hard limits, Advantage+ audience off, lifetime budget $748 ($250 new), purchasers excluded. Campaign `120255027367280655` (stop time 27/11 23:59), ad set `120255027367370655` renamed "iGAF13295 \| Brand \| Metro + store towns \| 30-49 \| ThruPlay \| 23-24 + 26-27 Nov", ad `120255027368870655`, video `2180352319245868` (page copy `1445498863899549`), creative `1450521326795007`. Viewers feed retargeting through audience `120255080305690655` | **$250 over 26/11 and 27/11** |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
+
+## Spend against plan (to 22:30 on 25/11)
+
+Read from both ad accounts 25/11 22:30: **$29,743 spent**. Meta $19,013 (prospecting $13,902, video views $2,497, retargeting $2,052, Talking BBQs $498, tracking test $64). Google $10,731 (PMax $8,941, Brand Search $1,789). Coleman's own Brand Search copy (128-217-5264) not included, it cannot be read.
+
+Projection to 28/11 23:59: about **$38,660**. Rest of 25/11 about $170, then $2,832 a day for 26/11 to 28/11 ($8,496), plus $250 Talking BBQs. That leaves about **$4,500** of the $43,200 unplaced.
 
 ## Spend against plan (to 22:00 on 20/11)
 
@@ -81,6 +87,9 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 
 ## Blockers
 
+- **Meta API edits need an advertiser (found 25/11).** Any ad set write through the API failed with "Advertiser is missing" (#3858634) until `regional_regulated_categories` = `AUSTRALIA_UNIVERSAL` and `regional_regulation_identities` (universal_beneficiary and universal_payer `1784192959524280`, Coleman Barbeques Australia, verified) are sent with it. Send both on every ad set edit and on any new ad set. Only retargeting and Talking BBQs carry it so far; the prospecting ad sets will need it on their next edit.
+- **Video audiences need the Page copy of a video.** A video uploaded to the ad account (e.g. `2180352319245868`) cannot seed a video engagement audience (#2654). Use the creative's `video_id` (the Page copy) instead.
+
 0. **Video views ad (likely fixed).** The targeting edit made through the dev-mode Composio app at 23:10 on 09/11 put the live ad (`120254770835630655`) into WITH_ISSUES. Jeremy republished it in Ads Manager about 09:30 on 10/11 and the delivery error cleared. Check impressions resume. Do not edit Meta objects through the Composio app until it is Live.
 1. **Meta prospecting ads (worked around 10/11).** All 16 built by hand in Ads Manager as drafts. Each ad: 4:5 in Feeds, 9:16 in Stories/Reels, 1:1 in right column, all at Original with Meta AI crop and expand off; one primary text and one headline from `PLAN.md`, AI text strategies off; Personalised destinations 0/4; Format display options 1/3 (carousel and collection off); Ad sources 1/3; multi-advertiser off; CTA Shop now; `utm_content` per ad. Meta switches several of these back on when media is swapped or ads are pasted, so recheck after any edit. The API route below is still blocked. Original note: the Composio Meta connection (`metaads_driven-swede`, user "Composio API") now has Advertise access on the Coleman Page, but its Meta app is in **development mode**, and Meta refuses to create ad creatives from a dev-mode app (error subcode 1885183). Fix: switch the app to Live in Meta for Developers (needs a privacy policy URL), or build the 16 ads by hand in Ads Manager. The ad copy for all 16 is in `PLAN.md`; the 48 images are already in the ad account image library.
 2. **Meta purchase pixel (sorted 10/11).** Jeremy confirmed 13:02 that Meta is using the Incubator pixel `1912256846793050`. Tracking check 10/11: Shopify 11 orders about $18.6k since 01/11, GA4 11 purchases about $19.7k, Google Ads 0 (no clicks yet, so nothing to attribute).
@@ -104,6 +113,7 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 - **20/11** Early access email was due. Not confirmed as sent at 22:00 on 20/11. Wording still says "early access" though the sale has been public since 08/11.
 - **24/11 07:30** Scheduled task (was budget step 2, now read only): reports performance since 21/11 and recommends what to do with the held $5,900.
 - **27/11** Budget step 3 switched off 20/11. No budget change is scheduled.
+- **27/11 23:59** Talking BBQs second run ends.
 - **28/11 23:59** All Black Friday ads stop (end dates set on PMax and Meta prospecting).
 
 ## Open items

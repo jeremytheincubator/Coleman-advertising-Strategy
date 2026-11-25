@@ -40,3 +40,6 @@
 | 21/11 | Gas BBQs asset group is not paused on 24/11 | All three asset groups now sit between 2.1x and 2.5x |
 | 22/11 | PMax cut from $850 to $400 a day, target return stays at 300% | No PMax sales since the target went on (about $1,630 over 21/11 and the morning of 22/11), clicks up to about $3.40 on search; Brand Search is catching the brand sales. Jeremy's OK by voice |
 | 22/11 | Talking BBQs runs as a brand ad, $500 over 23/11 and 24/11, from the held money | Jeremy's instruction. ThruPlay keeps the cost per view low; link still goes to /pages/black-friday |
+| 25/11 | PMax stays paused to 28/11 | Checked with Jeremy against the 24/11 pause: 0.4x since the target went on, Brand Search catching brand sales, no time to relearn |
+| 25/11 | Talking BBQs viewers go into retargeting | First run built 22k viewers at about 2c each that were not in any retargeting audience |
+| 25/11 | Talking BBQs runs again, $250 over 26/11 and 27/11, ages 30 to 49 hard, Advantage+ audience off | Jeremy's instruction. First run put 48% of spend on 65+ |
