@@ -43,3 +43,4 @@
 | 25/11 | PMax stays paused to 28/11 | Checked with Jeremy against the 24/11 pause: 0.4x since the target went on, Brand Search catching brand sales, no time to relearn |
 | 25/11 | Talking BBQs viewers go into retargeting | First run built 22k viewers at about 2c each that were not in any retargeting audience |
 | 25/11 | Talking BBQs runs again, $250 over 26/11 and 27/11, ages 30 to 49 hard, Advantage+ audience off | Jeremy's instruction. First run put 48% of spend on 65+ |
+| 28/11 | Brand Search keeps running to 06/12, paid from the Black Friday budget | Jeremy's instruction (voice). About $2,600, leaving about $1,600 for Cyber Monday |

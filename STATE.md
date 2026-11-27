@@ -1,14 +1,14 @@
 # Where we're at
 
-Last updated: 28/11/2026 07:00 (Melbourne), times on 21/11 are approximate
+Last updated: 28/11/2026 06:55 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
 | BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Paused 24/11 17:10 on Jeremy's instruction**, its $400 a day moved to retargeting (+$250) and Brand Search (+$150). 300% target removed 17:08 just before. Since the target went on: 1 sale, $1,149, on about $2,725 (21/11 to 24/11). Earlier: budget cut to $400 on 22/11 (Jeremy's OK by voice), 300% target return kept (set 21/11). The target stopped the Display spend, but since it went on PMax has made no sales: about $1,008 on 21/11 and $628 by 11:45 on 22/11, nearly all on search, with clicks now about $3.40 each. It was also spending past its $850 budget. $6,334 spent 13/11 to 07:15 on 21/11 for 6 purchases, $14,482 (2.3x), see "PMax review 21/11" | **$400 from 22/11** (was $850) |
-| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). **Spent $325, $306, $363 on 25/11 to 27/11 against the $280 budget. Still ends 06/12, not 28/11, so it keeps running after the sale unless ended or kept on for Cyber Monday (needs Jeremy's call)** | **$280 from 24/11** (was $130) |
-| BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
+| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). **Spent $325, $306, $363 on 25/11 to 27/11 against the $280 budget. Runs on to 06/12 on Jeremy's instruction 28/11, paid from the Black Friday budget (about $2,600 for 29/11 to 06/12)** | **$280 from 24/11** (was $130) |
+| BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Off. Jeremy turned it off and it never spent anything** (Jeremy, 28/11). Still not readable through the Composio connection (403) | none |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
 | BF26 Prospecting, old combined Add to cart ad set | Meta | **Switched back on 24/11 17:21** on Jeremy's instruction. Ads live from 17:34: Kitchens from $1,949 A and B, New Revolution 5 Burner A, Dual Fuel Save up to $900 A. Paused: Kitchens Save up to $900, Revolution BBQs price B, Dual Fuel from $1,949 B, New Revolution 5 Burner B. Kitchens B is off-spec (six texts, site links, product set); A and B prices not rechecked | floor $530 a day inside the $1,952 |
 | BF26 Prospecting, three Purchase ad sets ("- Copy") | Meta | **Paused 21/11** as superseded | none |
@@ -38,7 +38,11 @@ Read from both ad accounts at 06:50 on 28/11: **$36,371 spent**. Nothing was cha
 
 Meta daily: 24/11 $2,143, 25/11 $2,564, 26/11 $2,770, 27/11 $2,674, 28/11 to 06:50 $274. Google Brand Search runs over its $280 (see its row).
 
-**Projection to 28/11 23:59: about $39,000** (Meta about $2,330 more on the $2,552 still budgeted, Brand Search about $310 more). **About $4,200 of the $43,200 Black Friday budget will be left at midnight**, which is the Cyber Monday pot. If Coleman's own Brand Search copy (128-217-5264, $85 a day, unreadable) spent in full from 12/11, it took up to about $1,450 of that, leaving about $2,750. Separate from the $8,800 December line (includes the $4,800 held from Black Friday) and the $8,000 Boxing Day and January line in `PLAN.md`.
+**Projection to 28/11 23:59: about $39,000** (Meta about $2,330 more on the $2,552 still budgeted, Brand Search about $310 more). **About $4,200 of the $43,200 Black Friday budget is left at midnight.** Coleman's own Brand Search copy never spent, so nothing comes off for it.
+
+**Brand Search runs on to 06/12 (Jeremy, 28/11) and comes out of that $4,200:** about $2,600 for 29/11 to 06/12 at the $306 to $363 a day it has been spending (at its $280 budget it would be $2,240).
+
+**Cyber Monday pot: about $1,600.** Separate from the $8,800 December line (includes the $4,800 held from Black Friday) and the $8,000 Boxing Day and January line in `PLAN.md`.
 
 Shopify 08/11 to 27/11: 91 orders, $215,882. Black Friday 27/11: 16 orders, $43,549, the best day of the campaign. 24/11 9 orders $19,803; 25/11 6 $12,936; 26/11 6 $9,307.
 
@@ -137,14 +141,14 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 - **24/11 07:30** Scheduled task (was budget step 2, now read only): reports performance since 21/11 and recommends what to do with the held $5,900.
 - **27/11** Budget step 3 switched off 20/11. No budget change is scheduled.
 - **27/11 23:59 (done)** Talking BBQs second run ended, $249.91.
-- **28/11 23:59** All Black Friday ads stop (Meta prospecting and retargeting end; Brand Search does not, it ends 06/12). Cyber Monday 30/11 needs new end dates if it runs (end dates set on PMax and Meta prospecting).
+- **28/11 23:59** All Black Friday ads stop (Meta prospecting and retargeting end; Brand Search runs on to 06/12 on Jeremy's instruction). Cyber Monday 30/11 on Meta needs new end dates and Eitan's OK to extend the sale; about $1,600 available (end dates set on PMax and Meta prospecting).
 
 ## Open items
 
 - Retargeting campaign to build in Meta (5 ads, warm audiences: visitors, engagers, video viewers).
 - Hero spot ad inside Meta prospecting not built (no budget of its own).
 - Old Google campaigns "INC ToF Video Views", "INC MoF Frequency" and the iGAF13267 Display test are ENABLED but ended, so not spending.
-- Brand Search ends 28/11. Decide whether a small budget runs through Christmas and Boxing Day.
+- Brand Search runs to 06/12 (decided 28/11). Decide whether a small budget runs on through Christmas and Boxing Day.
 - Landing page: Dual Fuel collection for Pack 2, countdown check, `/collections/black-friday` excluding REV2, REV3 and the Heller cooler.
 - Customer Match (10k competition subscribers, past customers) waits on privacy policy consent wording.
 - The Hatch Paid has one budget per concept; the phasing only lives on the canvas and in `PLAN.md`.
