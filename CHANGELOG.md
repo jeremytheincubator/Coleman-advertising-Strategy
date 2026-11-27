@@ -2,6 +2,9 @@
 
 Newest first. One line per action, with where it happened.
 
+## 28/11/2026
+- 06:50 Read only, for Jeremy's reporting: chats since 25/11 checked, no Coleman paid changes made outside this repo. Meta and Google read live: no changes since 25/11 22:45. Spend to 06:50 $36,371 (Meta $24,921, Google $11,451); projected about $39,000 at 23:59, leaving about $4,200 of the $43,200 for Cyber Monday (about $2,750 if Coleman's own Brand Search copy spent in full). Talking BBQs finished at $747.85. Brand Search spending $306 to $363 a day on its $280 budget and still ends 06/12. Shopify 08/11 to 27/11 91 orders $215,882; 27/11 16 orders $43,549. Repo STATE.md updated.
+
 ## 25/11/2026
 - 22:44 Meta, on Jeremy's instruction: Talking BBQs ad set `120255027367370655` targeting changed to ages 30 to 49 as hard limits with Advantage+ audience off (was 35 to 65 as a suggestion with Advantage+ on); renamed to "iGAF13295 | Brand | Metro + store towns | 30-49 | ThruPlay | 23-24 + 26-27 Nov". Read back: age 30 to 49, advantage_audience 0, purchasers still excluded. Advertiser and payer set (Coleman Barbeques Australia).
 - 22:42 Meta, on Jeremy's instruction: Talking BBQs back on for $250. Ad set `120255027367370655` lifetime budget $500 to $748 and end 24/11 to 27/11 23:59; campaign `120255027367280655` stop time to 27/11 23:59. Read back: ACTIVE, $748, $250.06 remaining. Note it went live at 22:42 with the old 35 to 65 targeting for about two minutes before the targeting change.

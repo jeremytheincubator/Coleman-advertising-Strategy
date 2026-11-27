@@ -1,13 +1,13 @@
 # Where we're at
 
-Last updated: 25/11/2026 22:45 (Melbourne), times on 21/11 are approximate
+Last updated: 28/11/2026 07:00 (Melbourne), times on 21/11 are approximate
 
 ## Status at a glance
 
 | Line | Platform | Status | Daily budget now |
 |---|---|---|---|
 | BF26 PMax (Kitchens, Dual Fuel, Gas BBQs) | Google | **Paused 24/11 17:10 on Jeremy's instruction**, its $400 a day moved to retargeting (+$250) and Brand Search (+$150). 300% target removed 17:08 just before. Since the target went on: 1 sale, $1,149, on about $2,725 (21/11 to 24/11). Earlier: budget cut to $400 on 22/11 (Jeremy's OK by voice), 300% target return kept (set 21/11). The target stopped the Display spend, but since it went on PMax has made no sales: about $1,008 on 21/11 and $628 by 11:45 on 22/11, nearly all on search, with clicks now about $3.40 each. It was also spending past its $850 budget. $6,334 spent 13/11 to 07:15 on 21/11 for 6 purchases, $14,482 (2.3x), see "PMax review 21/11" | **$400 from 22/11** (was $850) |
-| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). Ends 06/12, not 28/11 | **$280 from 24/11** (was $130) |
+| BF26 Brand Search (original, account 608-068-0425) | Google | **Live.** $789 spent, 6 purchases, $14,576 (18x). Regularly spends over its daily budget. Leaks to camping terms (propane, drink coolers) and competitor terms (Ziegler and Brown, Cobb); bare "coleman" $167 for no sales. Seven negatives added 20/11 (propane, camping, tent, stove, lantern, ziegler, cobb). **Spent $325, $306, $363 on 25/11 to 27/11 against the $280 budget. Still ends 06/12, not 28/11, so it keeps running after the sale unless ended or kept on for Cyber Monday (needs Jeremy's call)** | **$280 from 24/11** (was $130) |
 | BF26 Brand Search (copy, Coleman-owned account 128-217-5264) | Google | **Not readable through the Composio connection** (403), status and spend unknown. Check by hand | $85 |
 | BF26 Hero spot video views | Meta | **Finished 17/11.** $2,497 spent, 559,420 impressions, 178,818 people reached | done |
 | BF26 Prospecting, old combined Add to cart ad set | Meta | **Switched back on 24/11 17:21** on Jeremy's instruction. Ads live from 17:34: Kitchens from $1,949 A and B, New Revolution 5 Burner A, Dual Fuel Save up to $900 A. Paused: Kitchens Save up to $900, Revolution BBQs price B, Dual Fuel from $1,949 B, New Revolution 5 Burner B. Kitchens B is off-spec (six texts, site links, product set); A and B prices not rechecked | floor $530 a day inside the $1,952 |
@@ -16,8 +16,31 @@ Last updated: 25/11/2026 22:45 (Melbourne), times on 21/11 are approximate
 | BF26 Retargeting | Meta | **Live and approved, spending from 21/11.** New campaign, one ad set optimising for Purchase on warm audiences (site visitors 30 days, hero spot viewers, **Talking BBQs viewers (added 25/11)**, Facebook and Instagram engagers; purchasers excluded). Advertiser and payer set to Coleman Barbeques Australia 25/11. 4 ads: "Your new BBQ awaits" (A) v2 and "Slow burn, nearly ready" (B) v2 with copy rewritten 21/11 to match each visual, Kitchens cut 12s video, Dual Fuel cut 12s video | **$600 a day from 24/11** (was $350) |
 | BF26 Prospecting, Kitchens group (new 20/11) | Meta | **Live, spending from 21/11.** Add to cart. Ads at 06:55 on 21/11: Kitchens from $1,949 D v3 (all three sizes now read "This 5 burner kitchen $4499"), E v3, F v2, G and the Kitchens cut 12s video. All earlier versions paused | floor $1,150 a day inside the $1,952 (was $920) |
 | BF26 Prospecting, Dual Fuel + 5 Burner group (new 20/11) | Meta | **Live and approved, spending from 21/11.** Add to cart. 4 ads: Dual Fuel from $1,949 v2, New Revolution 5 Burner v3 B and C (21/11 artwork, replacing v2), and the Dual Fuel cut 12s video v2 (all three sizes; the 4:5 was re-rendered at 12.7 seconds on 21/11). Revolution 5 Burner 3 second video added 21/11 in all three sizes (Jeremy confirmed 3 seconds is intended), also added to retargeting | floor $230 a day inside the $1,952 (was $460 to 24/11 17:21) |
-| BF26 Brand, Talking BBQs (iGAF13295), hero video reprise | Meta | **Back on from 22:40 on 25/11, ends 27/11 23:59** (Jeremy, 25/11). First run 23/11 to 24/11: $497.94, 10,529 reached, 22,397 ThruPlays (about 2c each), 2,454 full views, 55 link clicks, no tracked sales; 65+ took 48% of spend because Advantage+ audience was on. Second run: ages 30 to 49 as hard limits, Advantage+ audience off, lifetime budget $748 ($250 new), purchasers excluded. Campaign `120255027367280655` (stop time 27/11 23:59), ad set `120255027367370655` renamed "iGAF13295 \| Brand \| Metro + store towns \| 30-49 \| ThruPlay \| 23-24 + 26-27 Nov", ad `120255027368870655`, video `2180352319245868` (page copy `1445498863899549`), creative `1450521326795007`. Viewers feed retargeting through audience `120255080305690655` | **$250 over 26/11 and 27/11** |
+| BF26 Brand, Talking BBQs (iGAF13295), hero video reprise | Meta | **Finished 27/11 23:59.** Total $747.85 ($497.94 first run, $249.91 second run). Second run (25/11 22:42 to 27/11) at 30 to 49 on Jeremy's instruction 25/11. First run 23/11 to 24/11: $497.94, 10,529 reached, 22,397 ThruPlays (about 2c each), 2,454 full views, 55 link clicks, no tracked sales; 65+ took 48% of spend because Advantage+ audience was on. Second run: ages 30 to 49 as hard limits, Advantage+ audience off, lifetime budget $748 ($250 new), purchasers excluded. Campaign `120255027367280655` (stop time 27/11 23:59), ad set `120255027367370655` renamed "iGAF13295 \| Brand \| Metro + store towns \| 30-49 \| ThruPlay \| 23-24 + 26-27 Nov", ad `120255027368870655`, video `2180352319245868` (page copy `1445498863899549`), creative `1450521326795007`. Viewers feed retargeting through audience `120255080305690655` | done |
 | December to January lines | Meta and Google | Planned only | see `PLAN.md` |
+
+## Spend against plan (final read 28/11 06:50)
+
+Read from both ad accounts at 06:50 on 28/11: **$36,371 spent**. Nothing was changed in either account between 25/11 22:45 and this read (Meta updated times and the Google change history both checked).
+
+| Line | Spent |
+|---|---|
+| Meta prospecting | $18,157 |
+| Meta retargeting | $3,454 |
+| Meta video views | $2,497 |
+| Meta Talking BBQs | $748 |
+| Meta tracking test (iGAF13267) | $64 |
+| **Meta total** | **$24,921** |
+| Google PMax (paused 24/11) | $8,935 |
+| Google Brand Search | $2,516 |
+| **Google total** | **$11,451** |
+| **Both** | **$36,371** |
+
+Meta daily: 24/11 $2,143, 25/11 $2,564, 26/11 $2,770, 27/11 $2,674, 28/11 to 06:50 $274. Google Brand Search runs over its $280 (see its row).
+
+**Projection to 28/11 23:59: about $39,000** (Meta about $2,330 more on the $2,552 still budgeted, Brand Search about $310 more). **About $4,200 of the $43,200 Black Friday budget will be left at midnight**, which is the Cyber Monday pot. If Coleman's own Brand Search copy (128-217-5264, $85 a day, unreadable) spent in full from 12/11, it took up to about $1,450 of that, leaving about $2,750. Separate from the $8,800 December line (includes the $4,800 held from Black Friday) and the $8,000 Boxing Day and January line in `PLAN.md`.
+
+Shopify 08/11 to 27/11: 91 orders, $215,882. Black Friday 27/11: 16 orders, $43,549, the best day of the campaign. 24/11 9 orders $19,803; 25/11 6 $12,936; 26/11 6 $9,307.
 
 ## Spend against plan (to 22:30 on 25/11)
 
@@ -113,8 +136,8 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 - **20/11** Early access email was due. Not confirmed as sent at 22:00 on 20/11. Wording still says "early access" though the sale has been public since 08/11.
 - **24/11 07:30** Scheduled task (was budget step 2, now read only): reports performance since 21/11 and recommends what to do with the held $5,900.
 - **27/11** Budget step 3 switched off 20/11. No budget change is scheduled.
-- **27/11 23:59** Talking BBQs second run ends.
-- **28/11 23:59** All Black Friday ads stop (end dates set on PMax and Meta prospecting).
+- **27/11 23:59 (done)** Talking BBQs second run ended, $249.91.
+- **28/11 23:59** All Black Friday ads stop (Meta prospecting and retargeting end; Brand Search does not, it ends 06/12). Cyber Monday 30/11 needs new end dates if it runs (end dates set on PMax and Meta prospecting).
 
 ## Open items
 
