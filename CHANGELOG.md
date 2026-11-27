@@ -3,6 +3,7 @@
 Newest first. One line per action, with where it happened.
 
 ## 28/11/2026
+- 07:00 Repo, on Jeremy's instruction (voice): Cyber Monday plan recorded. Brand Search to run to 30/11 23:59 rather than 06/12 (about $650, replaces the 06:55 entry's $2,600); Cyber Monday on Meta only in the existing campaigns, new creative loaded tonight, Black Friday ads paused, end dates to 30/11 23:59; PMax stays off; about $3,500 for Meta. Needs Eitan's OK to extend the sale. No platform change made yet.
 - 06:55 Repo, on Jeremy's instruction (voice): Brand Search `24440165243` stays on to its 06/12 end date, about $2,600 taken from the Black Friday budget. Jeremy confirmed the Brand Search copy in Coleman's account 128-217-5264 is off and never spent. Cyber Monday pot now about $1,600 (was about $4,200). No platform change made.
 - 06:50 Read only, for Jeremy's reporting: chats since 25/11 checked, no Coleman paid changes made outside this repo. Meta and Google read live: no changes since 25/11 22:45. Spend to 06:50 $36,371 (Meta $24,921, Google $11,451); projected about $39,000 at 23:59, leaving about $4,200 of the $43,200 for Cyber Monday (about $2,750 if Coleman's own Brand Search copy spent in full). Talking BBQs finished at $747.85. Brand Search spending $306 to $363 a day on its $280 budget and still ends 06/12. Shopify 08/11 to 27/11 91 orders $215,882; 27/11 16 orders $43,549. Repo STATE.md updated.
 
