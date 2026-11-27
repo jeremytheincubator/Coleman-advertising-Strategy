@@ -151,7 +151,7 @@ The Hatch card for the follow-ups: component 15 (PMax) on the Black Friday brief
 - **27/11 23:59 (done)** Talking BBQs second run ended, $249.91.
 - **28/11 23:59** All Black Friday ads stop unless the Cyber Monday extension goes ahead (see "Cyber Monday plan")
 - **28/11 evening** Cyber Monday ads into Meta, Black Friday ads paused, end dates to 30/11 23:59; Brand Search end date to 30/11 23:59
-- **30/11 23:59** Cyber Monday ends: Meta and Brand Search stop (end dates set on PMax and Meta prospecting).
+- **30/11 23:59** Cyber Monday ends: Meta and Brand Search stop.
 
 ## Open items
 
